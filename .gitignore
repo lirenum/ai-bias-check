@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# React
+client/node_modules/
+client/.env
+client/build/
+
+# OS & IDE
+.DS_Store
+.vscode/
