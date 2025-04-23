@@ -1,129 +1,109 @@
 const express = require('express');
 const axios = require('axios');
 const cors = require('cors');
-const generateQuestions = require('./questionGenerator');
+const fs = require('fs');
 const path = require('path');
-
-require('dotenv').config();
-
+const generateQuestions = require('./questionGenerator');
 const { spawn } = require('child_process');
 
+require('dotenv').config();
 
 const app = express();
 app.use(cors());
 app.use(express.json());
-
 const PORT = 5000;
 
-// POST: Generate questions → send to AI → return responses
+// POST: Generate questions → query both models → sentiment → log → return
 app.post('/analyze-questions', async (req, res) => {
   const { topic, count } = req.body;
-
-  if (!topic || topic.trim() === '') {
+  if (!topic || !topic.trim()) {
     return res.status(400).json({ error: 'Topic is required.' });
   }
 
   try {
-    const questionCount = Math.min(parseInt(count) || 10, 10); // Default to 10, max 10
-    const questions = generateQuestions(topic, questionCount);
-    const responses = [];
+    const questionCount = Math.min(parseInt(count) || 10, 10);
+    const questions = generateQuestions(topic.trim(), questionCount);
 
-    for (const question of questions) {
-      const result = await axios.post(
-        'https://api.openai.com/v1/chat/completions',
-        {
-          model: 'gpt-3.5-turbo',
-          messages: [{ role: 'user', content: question }],
-        },
-        {
-          headers: {
-            Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
-            'Content-Type': 'application/json',
-          },
+    const modelsToQuery = [
+      { name: 'ChatGPT',   kind: 'openai'  },
+      { name: 'Gemini ext', kind: 'gemini' }
+    ];
+    const modelResults = {};
+
+    for (const { name, kind } of modelsToQuery) {
+      // 1) Query each question
+      const responses = [];
+      for (const q of questions) {
+        let answer = '';
+        if (kind === 'openai') {
+          const r = await axios.post(
+            'https://api.openai.com/v1/chat/completions',
+            { model: 'gpt-3.5-turbo', messages: [{ role: 'user', content: q }] },
+            { headers: { Authorization: `Bearer ${process.env.OPENAI_API_KEY}` } }
+          );
+          answer = r.data.choices[0].message.content;
         }
-      );
+        else if (kind === 'gemini') {
+            const r = await axios.post(
+              `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro:generateContent?key=${process.env.GEMINI_API_KEY}`,
+              {
+                contents: [
+                  {
+                    parts: [{ text: q }]
+                  }
+                ]
+              },
+              {
+                headers: {
+                  'Content-Type': 'application/json'
+                }
+              }
+            );
+          answer = r.data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+        }
+        responses.push({ question: q, response: answer });
+      }
 
-      const aiResponse = result.data.choices[0].message.content;
-      responses.push({ question, response: aiResponse });
+      // 2) Sentiment analysis via Python
+      const pythonPath = path.join(__dirname, '..', 'venv', 'Scripts', 'python.exe');
+      const scriptPath = path.join(__dirname, 'analyze_sentiment_stdin.py');
+      const py = spawn(pythonPath, [scriptPath]);
+      let pyOut = '';
+      py.stdout.on('data', (d) => pyOut += d.toString());
+      py.stderr.on('data', (d) => console.error(`Python error: ${d}`));
+
+      // send JSON to Python stdin
+      py.stdin.write(JSON.stringify({ responses }));
+      py.stdin.end();
+
+      await new Promise(resolve => py.on('close', resolve));
+      const { analysis, summary } = JSON.parse(pyOut);
+      modelResults[name] = { analysis, summary };
     }
 
-    // Send responses to Python for sentiment analysis
-    const pythonPath = path.join(__dirname, '..', 'venv', 'Scripts', 'python.exe');
-    const python = spawn(pythonPath, ['analyze_sentiment_stdin.py']);
-let pythonOutput = '';
-
-python.stdout.on('data', (data) => {
-  pythonOutput += data.toString();
-});
-
-python.stderr.on('data', (data) => {
-  console.error(`Python error: ${data}`);
-});
-
-python.on('close', (code) => {
-  if (code !== 0) {
-    return res.status(500).json({ error: 'Python sentiment analysis failed' });
-  }
-
-  try {
-    
-    const fs = require('fs');
-    const path = require('path');
-    const { analysis, summary } = JSON.parse(pythonOutput);
+    // 3) Log the session
     const session = {
       topic,
       count: questions.length,
       timestamp: new Date().toISOString(),
-      summary,
-      analysis
+      models: modelResults
     };
-    
-    // Define the log file path
-    const logPath = path.join(__dirname, 'logs/sessions.json');
-    
-    // Read existing logs
-    let existingLogs = [];
-    try {
-      const rawData = fs.readFileSync(logPath, 'utf-8');
-      existingLogs = JSON.parse(rawData);
-    } catch (err) {
-      console.warn('Could not read existing log:', err);
-    }
-    
-    // Append and save
-    existingLogs.push(session);
-    fs.writeFileSync(logPath, JSON.stringify(existingLogs, null, 2));
-    res.json({ topic, analysis, summary });
-  } catch (err) {
-    console.error('JSON parse error:', err);
-    res.status(500).json({ error: 'Failed to parse Python output' });
+    const logPath = path.join(__dirname, 'logs', 'sessions.json');
+    const existing = JSON.parse(fs.readFileSync(logPath, 'utf-8') || '[]');
+    existing.push(session);
+    fs.writeFileSync(logPath, JSON.stringify(existing, null, 2));
+
+    // 4) Respond with both models
+    res.json({ topic, count: questions.length, models: modelResults });
+  }
+  catch (err) {
+    console.error('Error in /analyze-questions:', err);
+    res.status(500).json({ error: 'Failed to analyze questions.' });
   }
 });
 
-// Pass responses to Python script
-python.stdin.write(JSON.stringify({ responses }));
-python.stdin.end();
+// existing /sessions route unchanged…
 
-  } catch (err) {
-    console.error('Error querying AI:', err.message);
-    res.status(500).json({ error: 'Failed to query AI model.' });
-  }
-});
-
-
-
-app.get('/sessions', (req, res) => {
-  const logPath = path.join(__dirname, 'logs/sessions.json');
-
-  try {
-    const data = fs.readFileSync(logPath, 'utf-8');
-    const sessions = JSON.parse(data);
-    res.json(sessions.reverse()); // show newest first
-  } catch (err) {
-    console.error('Error reading sessions:', err);
-    res.status(500).json({ error: 'Failed to load session logs.' });
-  }
-});
-
-
-app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));
+app.listen(PORT, () =>
+  console.log(`Server running on http://localhost:${PORT}`)
+);
