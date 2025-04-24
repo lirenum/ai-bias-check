@@ -12,6 +12,17 @@ function App() {
   const [viewLogs, setViewLogs] = useState(false);
   const [error, setError] = useState('');
 
+  // 1️⃣ Define available models and which are selected
+  const allModels = [
+    { name: 'ChatGPT',   kind: 'openai'  },
+    { name: 'Gemini ext', kind: 'gemini' },
+    { name: 'DeepSeek',   kind: 'deepseek' },
+    { name: 'Llama 2',    kind: 'llama' }
+  ];
+  const [selectedModels, setSelectedModels] = useState(
+    allModels.map(m => m.kind) // default: all ticked
+  );
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!topic.trim()) return;
@@ -23,7 +34,8 @@ function App() {
     try {
       const res = await axios.post('http://localhost:5000/analyze-questions', {
         topic,
-        count: questionCount
+        count: questionCount,
+        models: selectedModels
       });
       setModelData(res.data.models);
     } catch (err) {
@@ -45,6 +57,29 @@ function App() {
         <SessionLog />
       ) : (
         <>
+          {/* 2️⃣ Model selection checkboxes */}
+          <div
+            className="model-select-row"
+            style={{ display: 'flex', gap: '1rem', margin: '1rem 0' }}
+          >
+            {allModels.map(({ name, kind }) => (
+              <label key={kind} style={{ display: 'flex', alignItems: 'center' }}>
+                <input
+                  type="checkbox"
+                  checked={selectedModels.includes(kind)}
+                  onChange={e => {
+                    if (e.target.checked) {
+                      setSelectedModels(prev => [...prev, kind]);
+                    } else {
+                      setSelectedModels(prev => prev.filter(k => k !== kind));
+                    }
+                  }}
+                />
+                <span style={{ marginLeft: '0.25rem' }}>{name}</span>
+              </label>
+            ))}
+          </div>
+
           <form onSubmit={handleSubmit}>
             <input
               type="text"

@@ -52,6 +52,12 @@ button {
   font-size: 16px;
 }
 
+.model-select-row label {
+  cursor: pointer;
+  user-select: none;
+}
+
+
 .result-item {
   background: #f9f9f9;
   padding: 10px;

@@ -1,0 +1,46 @@
+## 🗓️ Week 7 – Project Log  
+**Date:** 
+
+### **📅 Progress Log – 22 April 2025**
+
+---
+
+### ✅ **Tasks Completed**
+- **Implemented Gemini model integration** into the bias detection web app alongside ChatGPT.
+- Modified the backend route `/analyze-questions` to:
+  - Query **multiple AI models** (ChatGPT and Gemini).
+  - Pass each model's responses through the sentiment analysis pipeline.
+  - Return and log **separate bias analysis results** for each model.
+- Created frontend logic to dynamically display **two separate bias charts** (ChatGPT and Gemini), including sentiment breakdowns and dominant sentiment per model.
+- Verified that previous functionality (question generation, session logging, visualization) remained stable with dual-model integration.
+
+---
+
+### ⚠️ **Challenges Encountered**
+- **Gemini API requests initially failed** due to incorrect endpoint usage:
+  - Used deprecated or misformatted API versions (`v1beta`, `v1beta2`) and model names (`gemini-pro`) which resulted in `404 Not Found` and `400 Bad Request` errors.
+  - Attempted request bodies with outdated structures (using `prompt` instead of `contents`) that were not supported by the Gemini `generateContent` method.
+- **API version confusion**: Google documentation had multiple versions and model names (e.g., Gemini 1.0, 1.5, 2.0), which created ambiguity in model selection and required verification of supported models.
+
+---
+
+### 🛠️ **Solutions Applied**
+- Ran a **model discovery script (`list-models.js`)** to determine which Gemini models were accessible using the current API key.
+- Identified `models/gemini-1.5-pro` as the best-fit model for text-only, high-quality responses.
+- Updated the API request to:
+  - Use the **correct model path**: `models/gemini-1.5-pro`
+  - Use the **v1 API version**
+  - Format request body using `contents -> parts -> text` as per Gemini's updated standard
+- Built a standalone test script (`test-gemini.js`) to verify Gemini responses before reintegrating into the backend.
+- Validated that both models now return responses which are sentiment-analyzed and rendered successfully in the frontend.
+
+---
+
+### 📈 **Outcome**
+- The application now supports **multi-model AI analysis**, giving users a side-by-side bias comparison.
+- Bias metrics and dominant sentiment are accurately displayed for both Gemini and ChatGPT outputs.
+- Codebase remains modular, allowing future expansion to more models.
+
+---
+
+Let me know if you'd like this exported into a document or formatted for a logbook entry!
