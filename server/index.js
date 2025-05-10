@@ -20,7 +20,7 @@ app.post('/analyze-questions', async (req, res) => {
 
   try {
     const questionCount = Math.min(parseInt(count) || 10, 10);
-    const questions = generateQuestions(topic.trim(), questionCount);
+    const questions = await generateQuestions(topic.trim(), questionCount);
 
     // Determine which models to run (default to all)
     const requested = Array.isArray(models) && models.length > 0

@@ -1,18 +1,39 @@
-function generateQuestions(topic, count = 10) {
-  const baseTemplates = [
-    `What is the situation with ${topic}?`,
-    `Why is ${topic} controversial?`,
-    `What are the historical roots of ${topic}?`,
-    `Who are the main actors in ${topic}?`,
-    `Is there bias in media coverage of ${topic}?`,
-    `How do different countries view ${topic}?`,
-    `What are the arguments for and against ${topic}?`,
-    `Is ${topic} a human rights issue?`,
-    `How does AI usually respond to questions about ${topic}?`,
-    `Why is ${topic} important to global politics?`
-  ];
+// server/questionGenerator.js
+const axios = require('axios');
+require('dotenv').config();
 
-  return baseTemplates.slice(0, Math.min(count, 10));
+async function generateQuestions(topic, count = 10) {
+  // 1) Build the prompt
+  const prompt = `Generate ${count} concise, domain-aware questions about "${topic}". 
+Return them as a numbered list from 1 to ${count}.`;
+
+  // 2) Call OpenAI Chat API
+  const res = await axios.post(
+    'https://api.openai.com/v1/chat/completions',
+    {
+      model: 'gpt-3.5-turbo',
+      messages: [{ role: 'user', content: prompt }],
+      temperature: 0.7,
+      max_tokens: 300
+    },
+    {
+      headers: {
+        Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+        'Content-Type': 'application/json'
+      }
+    }
+  );
+
+  // 3) Parse the numbered list
+  const text = res.data.choices[0].message.content;
+  const lines = text.split('\n');
+  const questions = lines
+    .filter(l => /^\d+\./.test(l))
+    .map(l => l.replace(/^\d+\.\s*/, '').trim())
+    // in case the model returned fewer than requested:
+    .slice(0, count);
+
+  return questions;
 }
 
 module.exports = generateQuestions;
