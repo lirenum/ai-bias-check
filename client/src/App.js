@@ -13,6 +13,7 @@ function App() {
   const [viewLogs, setViewLogs] = useState(false);
   const [error, setError] = useState('');
   const [selectedModel, setSelectedModel] = useState(null);
+  const [analyzeTime, setAnalyzeTime] = useState(null);
 
   // 1️⃣ Define available models and which are selected
   const allModels = [
@@ -86,7 +87,8 @@ function App() {
     setLoading(true);
     setError('');
     setModelData({});
-
+    setAnalyzeTime(null);
+ const start = performance.now();
     try {
       const res = await axios.post('http://localhost:5000/analyze-questions', {
         topic,
@@ -94,6 +96,8 @@ function App() {
         models: selectedModels
       });
       setModelData(res.data.models);
+       const end = performance.now();  // NEW
+      setAnalyzeTime(Math.round(end - start));  // NEW (milliseconds)
     } catch (err) {
       console.error(err);
       setError('Analysis failed. Please try again.');
@@ -102,6 +106,8 @@ function App() {
     }
   };
 
+
+  
   
   return (
     <div className="App">
@@ -126,7 +132,7 @@ function App() {
             value={questionCount}
             onChange={(e) => setQuestionCount(e.target.value)}
           />
-          <button onClick={handleSubmit}>Analyze</button>
+          <button type="button" onClick={handleSubmit}>Analyze</button>
           <button className="history-button" onClick={() => setViewLogs(!viewLogs)}>
             {viewLogs ? 'Back' : 'History'}
           </button>
@@ -157,9 +163,21 @@ function App() {
   
       {/* Main Content */}
       <main className="main-content">
-        {loading && <p>Analyzing {questionCount} questions…</p>}
+        {loading && (
+  <div>
+    <div className="spinner"></div>
+    <p style={{ textAlign: 'center' }}>Analyzing {questionCount} questions…</p>
+  </div>
+)}
+
         {error && <p style={{ color: 'red' }}>{error}</p>}
-  
+         {/* DISPLAY ANALYSIS TIME */}
+        {!loading && analyzeTime !== null && (
+          <p>
+            <em>Analysis completed in {(analyzeTime / 1000).toFixed(2)} seconds</em>
+          </p>
+        )}
+
         {/* Session Log */}
         {viewLogs ? (
           <SessionLog />

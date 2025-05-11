@@ -150,4 +150,17 @@ app.get('/sessions', (req, res) => {
   }
 });
 
+app.delete('/sessions', (req, res) => {
+  const logPath = path.join(__dirname, 'logs', 'sessions.json');
+
+  try {
+    fs.writeFileSync(logPath, JSON.stringify([])); // Overwrite with empty array
+    res.json({ message: 'All session logs deleted successfully.' });
+  } catch (err) {
+    console.error('Error deleting logs:', err);
+    res.status(500).json({ error: 'Failed to delete logs.' });
+  }
+});
+
+
 app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));

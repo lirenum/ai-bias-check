@@ -8,7 +8,7 @@ sentiment_pipeline = pipeline(
 )
 
 # Confidence below this is treated as 'neutral'
-NEUTRAL_THRESHOLD = 0.9765
+NEUTRAL_THRESHOLD = 0.955
 
 def analyze_response(text):
     out = sentiment_pipeline(text[:512])[0]
