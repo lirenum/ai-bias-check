@@ -1,0 +1,80 @@
+/* src/components/SessionLog.css */
+
+.session-log {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.session-section {
+  background: #fff;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Collapsible header */
+.session-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  background: #297373; /* Myrtle Green */
+  color: white;
+  cursor: pointer;
+}
+.session-header div {
+  flex: 1;
+}
+
+/* Body */
+.session-body {
+  padding: 15px 20px;
+  background: #E6E6E6; /* Platinum */
+}
+
+/* Summary buttons */
+.summary-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 15px;
+}
+.sent-btn {
+  flex: 1;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background: #ddd;
+  font-weight: bold;
+}
+.sent-btn.selected {
+  background: #297373;
+  color: white;
+}
+.sent-btn.positive { border-top: 4px solid #2ecc71; /* green */ }
+.sent-btn.negative { border-top: 4px solid #e74c3c; /* red */ }
+.sent-btn.neutral  { border-top: 4px solid #f1c40f; /* yellow */ }
+
+/* Q&A list */
+.qa-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.qa-item {
+  background: white;
+  padding: 10px;
+  border-left: 4px solid #297373;
+  border-radius: 4px;
+}
+.qa-item p {
+  margin: 4px 0;
+  font-size: 0.9rem;
+}
+.no-items {
+  font-style: italic;
+  color: #555;
+}
