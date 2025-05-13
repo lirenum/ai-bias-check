@@ -119,12 +119,19 @@ function App() {
       {/* Path Bar */}
       <nav className="path">
         <div className="path-inner">
-          <input
-            type="text"
-            placeholder="Enter a topic"
-            value={topic}
-            onChange={(e) => setTopic(e.target.value)}
-          />
+          <div className="tooltip-wrapper">
+  <input
+    type="text"
+    placeholder="Enter a topic"
+    value={topic}
+    onChange={(e) => setTopic(e.target.value)}
+  />
+  <span className="tooltip-text">
+    For better results, use multiple keywords. <br />
+    E.g., <em>"china tibet occupation"</em> instead of just <em>"china"</em>.
+  </span>
+</div>
+
           <input
             type="number"
             min="1"

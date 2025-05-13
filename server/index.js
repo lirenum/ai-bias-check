@@ -6,6 +6,7 @@ const path = require('path');
 const generateQuestions = require('./questionGenerator');
 const { spawn } = require('child_process');
 require('dotenv').config();
+const { clearCache } = require('./questionCache');
 
 const app = express();
 app.use(cors());
@@ -134,6 +135,17 @@ app.post('/analyze-questions', async (req, res) => {
   catch (err) {
     console.error('Error in /analyze-questions:', err);
     res.status(500).json({ error: 'Failed to analyze questions.' });
+  }
+});
+
+// Clear question cache
+app.delete('/cache/clear', (req, res) => {
+  try {
+    clearCache();
+    res.json({ message: 'Question cache cleared successfully.' });
+  } catch (err) {
+    console.error('Error clearing cache:', err);
+    res.status(500).json({ error: 'Failed to clear question cache.' });
   }
 });
 
