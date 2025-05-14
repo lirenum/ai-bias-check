@@ -1,0 +1,37 @@
+{
+  "6eab88d196dbc0492e43be2eb6695b1d": {
+    "polarity": 0.9968582391738892,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "435ddc74e40b26676448cf5de241ae20": {
+    "polarity": 0.9750574231147766,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5ed74bdde6f436ecea36367beea8c4b4": {
+    "polarity": 0.9974215030670166,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9021d948b2ca0c4d70780e5af6d58ff1": {
+    "polarity": 0.99578458070755,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "726f7708bd7bf40b6fcc7c5c585d1355": {
+    "polarity": 0.9996065497398376,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "552f96d70e57db797a25822b17d0cc42": {
+    "polarity": 0.9997722506523132,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3c08d48c29fce94099115e26464e16a0": {
+    "polarity": -0.9981149435043335,
+    "label": "negative",
+    "subjectivity": 0.5
+  }
+}

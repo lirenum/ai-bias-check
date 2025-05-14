@@ -1,49 +1,64 @@
-Here's your **daily project log** for today:
+Certainly! Here's the revised and complete **Daily Log for 13 May 2025** with all tasks accomplished today:
 
 ---
 
 ### 📅 **Daily Log – 13 May 2025**
 
-**🧩 Task Completed:**
+---
 
-* Researched and reviewed additional AI models for integration into the bias detection app.
-* Identified 6 new potential models:
+**✅ Tasks Completed**
 
-  * **Claude (Anthropic)**
-  * **Cohere**
-  * **Mistral** (via Together AI or Hugging Face)
-  * **OpenRouter.ai** (aggregated access to multiple models)
-  * **Aleph Alpha**
-  * **Google PaLM 2 (via Vertex AI)**
-* Evaluated models based on:
+1. **🔁 Intelligent Caching System**
 
-  * API availability
-  * Use case alignment
-  * Ease of integration with existing code structure
-* Chose **Claude** (Anthropic) as the most suitable next integration due to strong performance, API simplicity, and compatibility with OpenRouter.
+   * Implemented caching for OpenAI question generation.
+   * Cached results are now reused when the same topic and count are submitted again.
+   * Improved logic to:
+
+     * Reuse partial matches (e.g., reuse 5 cached questions if user asks for 3).
+     * Extend cache by generating only the missing number of questions if needed.
+   * Prepared for optional migration of cache from flat file (`questions_cache.json`) to a database for improved performance and persistence.
+
+2. **💬 Input Field Tooltip for Better Prompting**
+
+   * Added a speech-bubble style tooltip to the topic input field.
+   * Tooltip appears on hover, guiding the user to provide **richer context** for better question generation (e.g., "china tibet occupation" instead of just "china").
+   * Styled using custom CSS for subtle visibility and accessibility.
+
+3. **🔎 Research: Additional AI Model Candidates**
+
+   * Identified and evaluated other advanced AI models that can be added to the app:
+
+     * **Claude** (Anthropic)
+     * **Cohere**
+     * **Mistral** (via Together AI or Hugging Face)
+     * **OpenRouter.ai** (aggregated model access)
+     * **Aleph Alpha**
+     * **Google PaLM 2 (Vertex AI)**
+   * Chose **Claude** (via OpenRouter) as the next integration target for its performance and ease of use.
 
 ---
 
-**⚙️ Technical Progress:**
+**⚙️ Technical Enhancements**
 
-* Reviewed current implementation (OpenAI, Gemini, DeepSeek, LLaMA).
-* Assessed future model compatibility with `/analyze-questions` API logic.
-* Prepared to incorporate Claude using OpenRouter to simplify authentication and routing.
-
----
-
-**🔍 Challenges:**
-
-* Some model APIs (like Mistral, PaLM) require enterprise setup or custom endpoints.
-* Need to standardize integration wrappers for easier model switching or toggling in frontend.
+* Enhanced question generator with `generateQuestions()` now checking for existing cache before triggering OpenAI API.
+* Improved reusability by designing the cache to respond flexibly to partial reuse and additional top-ups.
 
 ---
 
-**✅ Next Steps:**
+**🚧 Challenges**
 
-* Begin integration of **Claude** via OpenRouter.
-* Abstract AI model querying logic into modular functions to ease future expansion.
-* Update frontend UI to reflect model availability dynamically (e.g., Claude toggle).
-* Evaluate sentiment result consistency from Claude vs GPT.
+* Balancing logic between using cache, topping up, and refreshing stale data.
+* Ensuring tooltip placement doesn't interfere with layout responsiveness.
+* Identifying models with APIs that are production-ready and offer transparent usage limits and costs.
 
 ---
+
+**📌 Next Steps**
+
+* Integrate **Claude (Anthropic)** via OpenRouter.
+* Modularize model-querying logic for better maintainability.
+* Add optional cache expiration logic and cache clear button to UI.
+* Evaluate sentiment consistency across different models using existing analyzer.
+
+---
+
