@@ -262,6 +262,18 @@ body, .App {
   opacity: 1;
 }
 
+/* App.css */
+.intro-section {
+  background: #f9f9f9;
+  padding: 20px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+.intro-section h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #333;
+}
 
 /* Optional styling */
 .result-item {

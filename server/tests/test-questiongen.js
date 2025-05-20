@@ -1,5 +1,5 @@
 // filepath: f:\ai-bias-check\server\test-questiongen.js
-const generateQuestions = require('./questionGenerator');
+const generateQuestions = require('../questionGenerator');
 
 (async () => {
   try {

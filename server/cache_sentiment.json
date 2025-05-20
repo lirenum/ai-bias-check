@@ -33,5 +33,5255 @@
     "polarity": -0.9981149435043335,
     "label": "negative",
     "subjectivity": 0.5
+  },
+  "0a329b69b429f0b4c8bcdcedc18c8d81": {
+    "polarity": 0.9795628786087036,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f28ac53279a95d091b2f5d92a401c93c": {
+    "polarity": 0.9944508671760559,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3296d3e5b07add461b3a7d79bdd9c876": {
+    "polarity": 0.9865307211875916,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "60f64a6059c8eedbd8f8f46a0f078bdb": {
+    "polarity": 0.9770460724830627,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "07874038a4a98d4fb04df2b080d90923": {
+    "polarity": 0.9619969725608826,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8526b353b86f7262816d40dd2edce480": {
+    "polarity": -0.9878053665161133,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "de04636ec9ae2ed450d06340d3ce1e64": {
+    "polarity": 0.999667763710022,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1b130759452d7a7ac0c9ddf15e750d04": {
+    "polarity": -0.9952287673950195,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "91717519a724d77e728066be836c9651": {
+    "polarity": 0.997882068157196,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cd0ecaab744cead96fe38e196822ca2a": {
+    "polarity": 0.9991727471351624,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f2139bab16aec1dbdfd8e8d08d1f6108": {
+    "polarity": 0.9972333312034607,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bf6cc7fc687ddd3022d538a14a2f4ec9": {
+    "polarity": 0.9952477812767029,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "599b3e2d2981d546c690633fc5505696": {
+    "polarity": 0.999553382396698,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "383a0ed1b271e4f219197ae13782d157": {
+    "polarity": 0.9494428634643555,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3e0dbada913c634cfe40bd825ec39e68": {
+    "polarity": 0.823285698890686,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e02b9a498d5c695992340fdbadfeb1c8": {
+    "polarity": 0.9998233914375305,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5965e7937b0e71ef71c5893207b2d01c": {
+    "polarity": 0.9945255517959595,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f705b57c4162ec20e4b14bbb04c1edf6": {
+    "polarity": -0.99831223487854,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "4cc5d062951a23428c6f1a5f61c462a1": {
+    "polarity": 0.9977895021438599,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "75f377cd76ed7f09935615eb6ac6682a": {
+    "polarity": 0.9993202686309814,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b3ea102ebcce21f3e5453be1f5d75d81": {
+    "polarity": 0.9989193677902222,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "818e9b77067cb8e652256dca40109dce": {
+    "polarity": 0.9992582201957703,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2da36ff16145f8a172ff2a2582354406": {
+    "polarity": 0.9995762705802917,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a3fdc912a5424ce932fdf107c3dc98dd": {
+    "polarity": -0.9981020092964172,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "8fa62d462b4f460f382b63d09938bf3e": {
+    "polarity": 0.7257971167564392,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d6a5b5ea63e80d257e606611e7885f15": {
+    "polarity": 0.9997201561927795,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "abcbeac6bc78567070472a0587bf5924": {
+    "polarity": 0.9919764399528503,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "29f8ba87836d01cfe7a077b4a791c665": {
+    "polarity": -0.9858871102333069,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "8d13efefb908e4adf1b3a73a2251e979": {
+    "polarity": 0.9988664388656616,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f236d6fa15a4c4088a61e1853b6dee45": {
+    "polarity": 0.9981014132499695,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d2cc65d98cb11f9e08b144274dc40c2e": {
+    "polarity": 0.9903146624565125,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4251872931eb96e6beb58992acf7d937": {
+    "polarity": 0.9992936849594116,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "650169a37f6e3b83c48fa4d35f8bb519": {
+    "polarity": 0.9991694688796997,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6f34e0ad146fd959a26fec3f6bd0280f": {
+    "polarity": -0.9807292819023132,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "096b3b702b951ef7130fe3890b7779c3": {
+    "polarity": -0.9817299842834473,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "dc23b159afe8735041992ed71638f091": {
+    "polarity": 0.9991575479507446,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "73275e53953ce83c2aef442b5c2fa2f9": {
+    "polarity": 0.9744169116020203,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1f5244abd7aebf14f8ed8a8ae9049d49": {
+    "polarity": -0.9797634482383728,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "f81a9efa9718d93597dbf69a286a574e": {
+    "polarity": 0.9995102882385254,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f2858c92f20748817322df63ee93f902": {
+    "polarity": 0.9982631802558899,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e8e364a3e8d001cbdec702fd40701743": {
+    "polarity": 0.9937494993209839,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d90a2840637c99e6865da924bbcf8387": {
+    "polarity": 0.9988632202148438,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9bf3d24cdaa52657ce9a5676789a723a": {
+    "polarity": 0.9997499585151672,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "70f773295b54e4cf1f22c49ad68d5882": {
+    "polarity": -0.9549819231033325,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "bc4f311bed1afd6e4af70672b043c472": {
+    "polarity": -0.9904198050498962,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "d71d335b83dfef9f2dd2b1102d61cf1e": {
+    "polarity": 0.9995884299278259,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f42d01dfeecc4b43c95013a9bb85ae31": {
+    "polarity": 0.9944974780082703,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8edacd461c0184ab280eb4bcbb348715": {
+    "polarity": 0.9400437474250793,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4dd799fb7b4aedbc337df618093b6d60": {
+    "polarity": 0.6932513117790222,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "64b12f8ab636aceeb754eb55b6354574": {
+    "polarity": 0.9899011254310608,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2012145e7621daf6889403ed6a302e31": {
+    "polarity": 0.998755931854248,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7a062e7586b636059f6d9cc58693839b": {
+    "polarity": 0.9756670594215393,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ffedd4cd36c2781ff8b15e9d2890d06e": {
+    "polarity": 0.9982209801673889,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "864d46743adb8330e4f5956851d5d647": {
+    "polarity": 0.9950600266456604,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c1309d6a3448203ab35d2da9d7fd5ae7": {
+    "polarity": 0.9742567539215088,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "83c17e25ec80bee8ed2e6a695a9315fe": {
+    "polarity": 0.9979792237281799,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b3794a1f08e56529ae8340c6eeb671d6": {
+    "polarity": -0.989622950553894,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "a5823e794aa835c265c9aed76230503f": {
+    "polarity": -0.9821813702583313,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "6e344314612befb80b319b37511da347": {
+    "polarity": 0.9993889331817627,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "edbeb21b8e569b2cd8c671df5edd6f1f": {
+    "polarity": 0.9154592752456665,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e454f727ad05c1209a3aa0cd0d3e82e7": {
+    "polarity": 0.9977148771286011,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4c023d64a8c8f80dc04f6fe81f4820c5": {
+    "polarity": -0.9330294132232666,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "444849ba0623ec1eee0db8f9d9f6f5de": {
+    "polarity": 0.997251570224762,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b8fb8f2388c361492a365ac9925c72c4": {
+    "polarity": 0.9883489608764648,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b1a728d396bfd982eee0acaa987649b8": {
+    "polarity": 0.9984593391418457,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a20848be658bd7d7e5d034ea06eab87c": {
+    "polarity": 0.9325124621391296,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8ed5d07321c3d6341b0c75a4f2894604": {
+    "polarity": 0.9964912533760071,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1719062851133d37ddae4aab0e4f9b96": {
+    "polarity": -0.9696217775344849,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "69867cf1c7a5eeec2071e1d83d34cb28": {
+    "polarity": 0.9988231062889099,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "449be7180740bc897f18e89b09d1476f": {
+    "polarity": 0.9892100691795349,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f728021834460a3b3f94a1b90fad21d7": {
+    "polarity": 0.9988017082214355,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "683296ce007a523ed35734b5e520debe": {
+    "polarity": 0.84853196144104,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "87f6110cc6345dc2ada1c09920ae284a": {
+    "polarity": 0.9922577142715454,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "68ece50ed379028cc122a7185534815a": {
+    "polarity": 0.9992637038230896,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0ff5dacd231ffb9f48124c57cb7d139e": {
+    "polarity": 0.9974848031997681,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3b907085e243a3549396d555871820f3": {
+    "polarity": 0.9537838101387024,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a814803c7a9e446d1ac674e188525d4e": {
+    "polarity": -0.7968462705612183,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "505e9f339754a46c86c45ca7fd00218f": {
+    "polarity": -0.9635174870491028,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "971b47c4da79dea87a203fb86a7e9f7c": {
+    "polarity": 0.9677148461341858,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4b79ee43351045eeb7b6b6603d0ef532": {
+    "polarity": 0.9912595152854919,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "120bbf927df15399412039f9d1713a32": {
+    "polarity": 0.8525752425193787,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8da40eb32a9497f43c521fc2b6180179": {
+    "polarity": 0.9992827773094177,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2712fd487d4743c171f0d81c9baff68f": {
+    "polarity": 0.9761183857917786,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9cbb420605ab636b8826a6b7438495bd": {
+    "polarity": -0.8714266419410706,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "061504314b312b14167ee73aaf8e47fa": {
+    "polarity": -0.9681805968284607,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "879b15d641cd1bb130bfd021ded1db99": {
+    "polarity": -0.982700765132904,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "c9087a114990697d2112bc43a4af231f": {
+    "polarity": 0.9102901816368103,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1206a1e7626a0182d3c09c216238e0f3": {
+    "polarity": -0.99676513671875,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "a733a8e7bf1ec86ab2d9edfe3fd39dd3": {
+    "polarity": 0.9976779818534851,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5a5f8fd817204e4eff2d42c130ea48a1": {
+    "polarity": 0.9989902377128601,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "18a405da309caa463a754a321939af87": {
+    "polarity": 0.9983649849891663,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "19202bc3ba030ac2a6c0ab5ee44114db": {
+    "polarity": 0.999667763710022,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "258fec5fe282f9a8cc4cc5e276a87360": {
+    "polarity": 0.9982859492301941,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7a38e1ce81b992b57b8ab7a664f17987": {
+    "polarity": -0.9924091100692749,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "e1da4aa419f73be861fde78ce12e8698": {
+    "polarity": 0.5965614914894104,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3effaab61902ef9eae0d50b60ef5e9b5": {
+    "polarity": 0.9997779726982117,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "23e7768ef8af12464fb9cd2591ea5bee": {
+    "polarity": 0.9927055239677429,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "44a9951689032c1ded6ea8dc97b8bee5": {
+    "polarity": 0.9980030655860901,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c11611adb8f6546201fb608a388718d8": {
+    "polarity": -0.9467551708221436,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "b3ca07d7d8b9f3422ae223488d5ead07": {
+    "polarity": 0.9973635077476501,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1919cda102166436823451c9a3154a46": {
+    "polarity": 0.9987046718597412,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2e3dbad8244236110857d08558959a8a": {
+    "polarity": 0.9779025912284851,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ec3427ca6ea508e1b812bfee8f3f3b96": {
+    "polarity": 0.9992077946662903,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e1919143854d6741cbdbaf5e5f7f1229": {
+    "polarity": 0.9981176853179932,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "457c6a3aac150a3268953e36b66d4b57": {
+    "polarity": -0.9874667525291443,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "91f7fa6d4109295f34a03f98d40ea275": {
+    "polarity": -0.9811390042304993,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "213189779418ee4d30c05875d1a1979a": {
+    "polarity": 0.9982563853263855,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cd13d439dd8335893370acc8084b0d2c": {
+    "polarity": 0.9950101375579834,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2a03134ba9e02b5c4956d510a397d84a": {
+    "polarity": 0.8643266558647156,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "57e63b8c576e0abe5b15b277bd50156b": {
+    "polarity": -0.9994926452636719,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "53812443b2b3ebcb129ab6a86466d181": {
+    "polarity": 0.9613522887229919,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d7715bf746f28456ce6cb9b0f217ae73": {
+    "polarity": 0.9994452595710754,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "06349029ccdb520b942c8839ae92704d": {
+    "polarity": 0.9972986578941345,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7cbb752bb42423543a502c879ec5f857": {
+    "polarity": 0.9994794726371765,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fca0fe2ccad9df71f7e7b47e016ab243": {
+    "polarity": 0.9992983341217041,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ba71fffee92de9f35fe71b66ca2b23e7": {
+    "polarity": -0.7963405251502991,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "ac38ebfe5783ddc93d31d7725471d5ea": {
+    "polarity": 0.9992738366127014,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "390920ee54eeb590c28ef0654f35ae9d": {
+    "polarity": 0.9977450370788574,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5598c4165dcc48a715d469781f428de5": {
+    "polarity": 0.9971910119056702,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "93e93153ea85f33ad5329aa216be5028": {
+    "polarity": 0.9989381432533264,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fea6f0703966a9fae8b3d4301b43cd7c": {
+    "polarity": -0.9837678074836731,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "02487d1e643cd4d335e450f56fcdde7f": {
+    "polarity": 0.9990866184234619,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a9a8b124fc0726857f58d484468d2325": {
+    "polarity": 0.9886217713356018,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6bb437146490b701e8b0192358738747": {
+    "polarity": 0.9929609894752502,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d60f801b580e52ebff2f463bcdb7dccf": {
+    "polarity": 0.9982774257659912,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1ad0e03812e72284ddb293a2f5477c6c": {
+    "polarity": 0.9996877908706665,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1ff24d45d121240ea8f094f393c6203c": {
+    "polarity": -0.9681525230407715,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "6275af4a751846e2c57ddf2512c3656a": {
+    "polarity": -0.9795300364494324,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "4ecebb39d455833651ffa085a96faeee": {
+    "polarity": 0.9982287287712097,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c2389f18b24abe8e8331293b3dc413bc": {
+    "polarity": 0.7351875901222229,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9baa5c5f86d2313e80a1718bb1bc0ce3": {
+    "polarity": -0.9180591106414795,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "9ca811adf5f58802ae65c47ed07dd1b5": {
+    "polarity": -0.9812357425689697,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "aacfcc75564c318f7ef7e1da4ba99aeb": {
+    "polarity": 0.9875291585922241,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a4b4942085294b89673f63012625a420": {
+    "polarity": 0.9992369413375854,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "78f22d0138adfec04cd6b35d5b587631": {
+    "polarity": 0.9895364046096802,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2ae113a5bfe1cab547630cd9de61655b": {
+    "polarity": 0.9968692660331726,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c9fdc6927b8c8d5e16e96e3096197c4a": {
+    "polarity": 0.9896745085716248,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f83157637a43f5b7917523e3829bc508": {
+    "polarity": 0.9987497329711914,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "efd228ef48210982e73a0ad2d56aec48": {
+    "polarity": 0.9943130016326904,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c533afb65f32e11098f4cf390702ec0b": {
+    "polarity": -0.9951713681221008,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "7470f5100a780f973a8a5923e630bdac": {
+    "polarity": -0.9997444748878479,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "9ae4529be8d126b7d2e8d03929274139": {
+    "polarity": 0.7245615124702454,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2d87ccc418f4830e7faf7fb28c865921": {
+    "polarity": 0.9996281862258911,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "18b4f84623104c8c07331fadaa41a145": {
+    "polarity": 0.9994487166404724,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "30fda7e99995e098f0c44e022c36090f": {
+    "polarity": 0.9992497563362122,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "74575f4b149a2320f714fa68597e6f4a": {
+    "polarity": 0.9994407296180725,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "22a61babc216ea69e2f2d3bf5c04ae0f": {
+    "polarity": 0.9964419007301331,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b80f89d71dbc5bee58801ec3a89192a2": {
+    "polarity": 0.9978368878364563,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "19e93e7e4e979ad602c664a0453f8aa1": {
+    "polarity": 0.9991388320922852,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4b6f8fcd5dc0008edff314d0b373fe35": {
+    "polarity": 0.9988137483596802,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2310afdd173a1c45a0f2cab1c6f33d44": {
+    "polarity": 0.9987905621528625,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "84bdf3fa42bdf2486dea400b6c1faa91": {
+    "polarity": 0.9994340538978577,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cea4a4ea83a91f502f1525ef1d465d89": {
+    "polarity": -0.9819823503494263,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "3e200cdf1813fd00f08a4ff1697c4270": {
+    "polarity": -0.8925631046295166,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "7d119c78cef2fd18c5c5160c682a2d0b": {
+    "polarity": 0.9994906187057495,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9f545733b9c194709d55986271891295": {
+    "polarity": 0.9977560639381409,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6c640c8b5b3385a9e7a4225fcf7d75a9": {
+    "polarity": 0.9823369979858398,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "82e62c4de55c7d3e6b7033bfa7688a88": {
+    "polarity": -0.934219479560852,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "7abecc217f54187c151d7e8e3cf033d0": {
+    "polarity": 0.9987533092498779,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "dd954ca9f95b9e1ef3df6c0b773d5fcd": {
+    "polarity": 0.9994159936904907,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "242faf2616245ec744d937c9877714bc": {
+    "polarity": 0.9985888600349426,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "82d8c4e5d817dec5649ccbb65f5f5a66": {
+    "polarity": 0.999136745929718,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "77916609e8e7e3d19583dde0f02d6f74": {
+    "polarity": 0.9994767308235168,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "89bc418a1fd99406b2519134502705b2": {
+    "polarity": 0.9438098073005676,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e08f481ea4398a2e016ce52bb04f53f7": {
+    "polarity": 0.912446916103363,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2196612ccee0ff0c8456a58dd7609cde": {
+    "polarity": 0.9996862411499023,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f5d5fe2da9e716f0517bbf421d2d1f9c": {
+    "polarity": 0.9955307841300964,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "012f95bf26faedf2bd9c4c44eebcadab": {
+    "polarity": 0.9916836023330688,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c2bd8a2c68077df65f47ea119b1c5cea": {
+    "polarity": 0.9969571828842163,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a6f2bbb263da35240e9b4b0a109ab418": {
+    "polarity": 0.9994651675224304,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "62f1bd771acbe0cb07ec4fc110d3f21b": {
+    "polarity": 0.9931626319885254,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b2b90257057ec2a9609d842a21550856": {
+    "polarity": 0.9969509840011597,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b78843a9dce8432fd6246da513c97f30": {
+    "polarity": 0.9921869039535522,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "044c7d04f7fb6ecd7c90cd9d054c796b": {
+    "polarity": 0.997018575668335,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b74fc638749799301271db3b2cc9aca6": {
+    "polarity": 0.9279542565345764,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9e2baa0b8b528efd49acc132a43c5684": {
+    "polarity": -0.9944705963134766,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "071ccda48f4032ddac523f99c910fb3b": {
+    "polarity": 0.9981697797775269,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d8b25e78039f495107dfb7b57c13dd67": {
+    "polarity": 0.9930508136749268,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "74e25e74a498691fa3ec46b101d6ee9b": {
+    "polarity": 0.547848641872406,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ef5b2ec6f581e83ec3e3cb36183cb76b": {
+    "polarity": 0.9996004700660706,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c60af04441a194a37e5ff96f4766f6d7": {
+    "polarity": 0.9922482967376709,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d94d46eb5a7b69b6871674c34e4925b0": {
+    "polarity": 0.9329628944396973,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "409e10a811a47baa9882d5c498e3e29c": {
+    "polarity": 0.9996330738067627,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ecf93ef319bd686ab7be6fdacac06b37": {
+    "polarity": 0.9986419081687927,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0c25098c50f176865c41764bd34f5979": {
+    "polarity": 0.9995114803314209,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7f5ac53241bee9f06b054095cb0d929d": {
+    "polarity": 0.9996170997619629,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c262e8186550921667875bf06e74c04b": {
+    "polarity": 0.9944950938224792,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0cb9e0cd51b04973d270c0477c8e2188": {
+    "polarity": 0.9898119568824768,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "72f478a2bed3339b0cbbbe4d958d2182": {
+    "polarity": 0.9995054006576538,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "64fb592f750e953afa2fec8e03c1f0bb": {
+    "polarity": 0.6087391972541809,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b96a541d1f85d3a0e4bb0c43126304b0": {
+    "polarity": 0.9964255690574646,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cf924cd6b7e5b8facce8eaa7aa1bc8a6": {
+    "polarity": 0.9995487332344055,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "24f1e637aa98de82bbbfd392c2d03fba": {
+    "polarity": 0.9998069405555725,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "84f0aa23ba0a21cf2216b24b78cb347d": {
+    "polarity": 0.999398946762085,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7580f140c4eef16445fe752013b36821": {
+    "polarity": 0.9916629791259766,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b2e254efca8722b1e4c3b6656b1ab8f4": {
+    "polarity": 0.9924736022949219,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ce75457de73481577fd8690e6acdab26": {
+    "polarity": 0.9995834231376648,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2011ecad8aefad7cea4fd74929357120": {
+    "polarity": 0.9971972703933716,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5446284993fb2f5e6c2cb9f6cce8e9a0": {
+    "polarity": 0.998190701007843,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "68af346035fde36aba8e6ea032e4a4a8": {
+    "polarity": 0.9907496571540833,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d22d0fb1ccb98abc8ba9ffd5ec73408c": {
+    "polarity": 0.9993626475334167,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d8a51b81da067a0884a31e3b15654437": {
+    "polarity": -0.976691484451294,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "c63e84b35443d1034b0bd1a5f95fbc98": {
+    "polarity": 0.991523027420044,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "69c93931b3ebf8a4c47362c757e8e066": {
+    "polarity": 0.9750698804855347,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ec57810d772b5ea93835190813463236": {
+    "polarity": -0.5474288463592529,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "006a1ed140b07c672ed76cd72a17ffa8": {
+    "polarity": 0.9977821707725525,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e80a1c1e2c32692f4faea82d9218017a": {
+    "polarity": 0.9987117052078247,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c9e99b22ba1f98bbe784c2b578fb72d3": {
+    "polarity": 0.9977637529373169,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "68d710755fe181bf1b99e3a1e15f7f9b": {
+    "polarity": 0.9991965889930725,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8dd8f333d732306be37c535796aee1d4": {
+    "polarity": 0.9985871315002441,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0bc1cb922449bd0027d926fed2686702": {
+    "polarity": -0.9737421870231628,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "555b8c75adf981e06f5d13882dcd75db": {
+    "polarity": -0.9808500409126282,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "b0d11bfd128060752d3d8fea15bb5104": {
+    "polarity": 0.9997270703315735,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a612932fd70aa1d6a7dd9fe90f8ed54e": {
+    "polarity": 0.9578611850738525,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1b0279c2801e77847273c7ea66c6b3f8": {
+    "polarity": -0.5267014503479004,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "1106a77f46e8b84beafee6e5363ce078": {
+    "polarity": -0.9789724946022034,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "0ac4f34e26d0844161f902c5d7a6e2c3": {
+    "polarity": 0.9893592596054077,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "47148a0397de6ee278376d54f7394787": {
+    "polarity": 0.9995682835578918,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0b4582a329eca7e5839f849a722f8b6a": {
+    "polarity": 0.988283634185791,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5b61751cd739f8d31b143a2683112d7c": {
+    "polarity": 0.9989964365959167,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ce6a7ba2d374e67fef25ded5458ff5b1": {
+    "polarity": 0.688478946685791,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "dad1f8aa6aa319bdf42265474a7620f5": {
+    "polarity": 0.9970595240592957,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d0c5ccf342daaf2cbbf4fa92cb150cb2": {
+    "polarity": 0.9793102145195007,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cdbf3e399ee4ab125396c5834469d275": {
+    "polarity": -0.9950973391532898,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "0fec0386e62416146fe85ca3fcb01fcd": {
+    "polarity": -0.9920709729194641,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "5f11b42854dffdce092467ca1e6439bd": {
+    "polarity": 0.9989619255065918,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4bf0fc0a4cea494d1696c9f4cfd82d11": {
+    "polarity": 0.997063934803009,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "62ee5da60bb0bada30612521dd10bf33": {
+    "polarity": 0.9988346695899963,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "362373604dc5090a2fa6adf12665ab0b": {
+    "polarity": -0.9514508247375488,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "459b0650ad6eee3b63961126ea7870fc": {
+    "polarity": 0.9973583817481995,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f1c7b9424b72c704d8d49f79be772ace": {
+    "polarity": 0.9928559064865112,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "140b16cd6c23570ab21deff933476a1f": {
+    "polarity": 0.9900453686714172,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cf83867f9c74742fa67c0b28208f3f53": {
+    "polarity": 0.9975190162658691,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d11cb9275c0220c9e889227a59eb1c6a": {
+    "polarity": 0.9983830451965332,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "43057623ef036fb78cebfed4fa39107e": {
+    "polarity": -0.9963889122009277,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "8948090be21177ab8e622b3cd54cc29e": {
+    "polarity": 0.9977781176567078,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0b245d077369db970d005d3532695638": {
+    "polarity": 0.9886664152145386,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8a072e95818323552c5be2a35d1197d3": {
+    "polarity": 0.9987936019897461,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cb861852c110f7af4ac449292771752c": {
+    "polarity": 0.9958809614181519,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c596ef034675674a585d215b5d3b0015": {
+    "polarity": 0.9933503270149231,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3616a29e832649ecfccf7f936bfe9779": {
+    "polarity": 0.9991642236709595,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "508deb4eb96373ccd1d4bc2ff3057d92": {
+    "polarity": 0.9994739890098572,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8fb1f790853523379bd6e8e6092aa206": {
+    "polarity": 0.9978078007698059,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7a10e18d73ed4cb24ddd35bbbfa82d68": {
+    "polarity": 0.9898052215576172,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "051b0eb70eb726f0616d3c684932aa7e": {
+    "polarity": -0.9774447679519653,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "b25ce97165545a04213e7ce81519d8ee": {
+    "polarity": 0.8599521517753601,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8b6a7941167f3bd17319a35ee99416b6": {
+    "polarity": 0.9962230920791626,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "20547e9804ac7f5f35c3bf4ef9e76d2b": {
+    "polarity": -0.7772793769836426,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "5dbc4999d423c820e38215a065861cb6": {
+    "polarity": 0.9996508359909058,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "85533b43ee960aa364464a081a5b1fe0": {
+    "polarity": 0.9654485583305359,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1d1f46013227d131ee306ec73fe14f0f": {
+    "polarity": 0.9978188276290894,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "69745186086df3e433a66b4d0c966ca9": {
+    "polarity": -0.9670845866203308,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "e9d12c5396d065a0fce36534a97d4e88": {
+    "polarity": 0.982573926448822,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "17bae7b32128ced230ce74400aca0734": {
+    "polarity": 0.9579201340675354,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a8c4e6b3164b497efce200365c7390bf": {
+    "polarity": -0.990407407283783,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "4fb78ea0552eaa6d6d6c3fa6618be179": {
+    "polarity": 0.9994569420814514,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ea4dadd65362d9f7cf003e0466c69726": {
+    "polarity": 0.9985122084617615,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "07740b583910fd67f069a10d3ce2a524": {
+    "polarity": 0.9986947178840637,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d6996e34447a41210ffcba4852de10d1": {
+    "polarity": 0.9996992349624634,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "da00d9cd0e7fdcb883fb999d0595591f": {
+    "polarity": -0.8741540908813477,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "61ded3b53fe5949ad6202ea99a4f3639": {
+    "polarity": 0.9937505125999451,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cfdfc5a731d6060b74acb5c56d673353": {
+    "polarity": 0.9993728995323181,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "25c89fe30cc2e82a84e52d6a88a50967": {
+    "polarity": 0.9988248944282532,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "44cf3ba8e01748b09f9e04a2e135bd6d": {
+    "polarity": 0.999504804611206,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cadef2be5463761d25ce236a6c4db43d": {
+    "polarity": -0.9688543081283569,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "abc28f63411708a41d7ddd0a07eb9d38": {
+    "polarity": 0.9993122816085815,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "22790c1c283b27f1c841e9f66868c434": {
+    "polarity": 0.9993038177490234,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0b081554319db41e473f031b7cf4103a": {
+    "polarity": 0.9957470297813416,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9e14d0af0636f170c5d7972285ece655": {
+    "polarity": 0.9981028437614441,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "03cb497c53c257b7bf6bc63e719046a7": {
+    "polarity": -0.9992332458496094,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "0fc8277de9041604a005bedbb090b39c": {
+    "polarity": -0.9655328392982483,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "f9ffff2f3974f813b7f48a2b819165de": {
+    "polarity": 0.9993962049484253,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "38e24dcfdb4c0e991aa9f43cf1085fd1": {
+    "polarity": 0.996562659740448,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "36f1be46f7dfb524cb3872af1dd6852e": {
+    "polarity": 0.9776623845100403,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f4ac778900384ec7ea8e93ddcd9430eb": {
+    "polarity": 0.9992527365684509,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "04cf7d598a15e3e5239a612cb6d346d1": {
+    "polarity": 0.9944244623184204,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b475b7f93c3735b8f11ae2fb44ef4f73": {
+    "polarity": -0.984847366809845,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "de2141d7379ef756efb883fec846f3f9": {
+    "polarity": 0.8378046751022339,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4ee9f7e6b02de935b44ff79739546485": {
+    "polarity": 0.9987773299217224,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2993174e57693b774dd18d1f933eda5e": {
+    "polarity": 0.9899225831031799,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bc1d5bd44c4295566713c01479fd4988": {
+    "polarity": -0.9393011927604675,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "682bf3e0fada0161fcd0b8b7f3a64bff": {
+    "polarity": 0.5969051122665405,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "12443be4df3a17f76b2a79f812e90030": {
+    "polarity": 0.9754424691200256,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0c0faf52441aeab6e989ae16b189e310": {
+    "polarity": 0.9990553259849548,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3c89d4006f47b8c4d8c8cb449c3984da": {
+    "polarity": 0.992368757724762,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e720157c386661212ec3bb894efddd2c": {
+    "polarity": 0.9991067051887512,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "08200c7422ca9c568819cec7671ba6cf": {
+    "polarity": 0.9851434826850891,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "50886caed74bd73a516c88260c3a9d5c": {
+    "polarity": 0.9703726768493652,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ac20145b1b8b36de21ea074a9112b3fd": {
+    "polarity": 0.9979637861251831,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1d1e48c9bcdd446a7894e793869d393c": {
+    "polarity": -0.990128219127655,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "e27b14756e7fd829bbd6546b0137dcce": {
+    "polarity": -0.9711185097694397,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "0fc32013b6537648ab32c0004796048e": {
+    "polarity": 0.9985069632530212,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c7fab653ff6e33163f7b831118714b09": {
+    "polarity": 0.9957430958747864,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c3149d248feafbd7f94bf4216fe31a01": {
+    "polarity": 0.9993988275527954,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "71f86a4ba125987eacd23f05192b9646": {
+    "polarity": 0.9652470946311951,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fd61d6210688a9cb633f5be0dcbb8767": {
+    "polarity": 0.9977320432662964,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "abd971b5a9e06f785db4d6d205a142e9": {
+    "polarity": 0.9876194000244141,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0f39cba5e31fba2d1e5b0a691a8518af": {
+    "polarity": 0.9964103102684021,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "60f1533a4aa38dec0503dc988e576c35": {
+    "polarity": 0.9957887530326843,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "88ad9f018b92d10ea2df1d4beec0ffef": {
+    "polarity": 0.9950191974639893,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ca29105d7339106286c5ebdc926624ce": {
+    "polarity": -0.9832081198692322,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "c6ae96ebc955196226154509792a100a": {
+    "polarity": 0.9901594519615173,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "095782b508983e94481026a70a12608d": {
+    "polarity": 0.994795024394989,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f018a2ec8bd86df14db78e054478217c": {
+    "polarity": 0.9997187256813049,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f5808f97ccbaa5a6defb15777f8942dc": {
+    "polarity": 0.978095531463623,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e097b79addd6d30cef7de02fade6fe85": {
+    "polarity": -0.8093568086624146,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "e04cc3ec4636102a0e8512bc987674f5": {
+    "polarity": 0.9995796084403992,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4103aadbba15ef7486cd6940cc25f3d4": {
+    "polarity": 0.9926857948303223,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b38fc44ef906303b4ff1a13539aa795b": {
+    "polarity": 0.9991748929023743,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ffe97d410631f2b8f5ffd5f4fe59837e": {
+    "polarity": 0.9926289319992065,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7a95182538fae883dcbb935003f03d20": {
+    "polarity": -0.9610810875892639,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "ae9137d37f8f337fd6c4f94c99176eff": {
+    "polarity": -0.6107498407363892,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "798fc096e23ab1a7da253734654d123c": {
+    "polarity": 0.9976256489753723,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d58f3a96b92af0b65f4d44dfac375025": {
+    "polarity": 0.9901013374328613,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "141d9d82f2aeddad2b81b0c35eed5dc3": {
+    "polarity": 0.9979351758956909,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c1da590bf33784615cd27e70c7fc9ec8": {
+    "polarity": 0.9793779253959656,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ac7bf03ba338fa8e7a0c3fa66f5d7692": {
+    "polarity": 0.9984655380249023,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0ba443acec3dd43e033cf49cb63b5913": {
+    "polarity": -0.9957102537155151,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "410f092a724d31d1e300e8fdcac0b2d2": {
+    "polarity": 0.8971149325370789,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e5becd663cf169c1d20281ed65208c4f": {
+    "polarity": 0.7275040745735168,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4519312cd1908b5ac7287dbe09c00cfa": {
+    "polarity": -0.9560526013374329,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "a78e993903d3156b992bd654188d10d6": {
+    "polarity": 0.9988742470741272,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "59f61df3d60943d8b2484c37b8839861": {
+    "polarity": 0.9991517066955566,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a71a151eb32ebf2e61de874b64b53bf7": {
+    "polarity": 0.9985734224319458,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3a1eccfbec78a0a7a592c2ac8573e80b": {
+    "polarity": 0.9994342923164368,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "707b7769b017470b5ab9e1a79e91721d": {
+    "polarity": 0.9997236132621765,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1dfd9aad90ee0db7d53d47a3716794c3": {
+    "polarity": -0.9914225935935974,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "c4f0ba177d1ce6b5395d5b519324a21b": {
+    "polarity": 0.6549085974693298,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a5a9b0ef56531ae50f943abf19eef238": {
+    "polarity": 0.9997792840003967,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "45adaa909ea13ab556ac6c668b1b9656": {
+    "polarity": 0.9969456791877747,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "edfbdfa0eced46531cf607879b8ee297": {
+    "polarity": 0.9981688261032104,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9ba85e39fe9835565738b8deb0814823": {
+    "polarity": 0.9993458390235901,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e9a11e5f0e62ad294ac39eebd83f3d16": {
+    "polarity": 0.9984235763549805,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0d989a9f22593de5e36f8cc2ef2788df": {
+    "polarity": 0.9989965558052063,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b341575a36b04ea95b0f17d2226580a6": {
+    "polarity": 0.9989954829216003,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "85fc681b1322d894833e2a9683a75064": {
+    "polarity": 0.9945158362388611,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b8e8d1ef063522da411a59ea8c5314ac": {
+    "polarity": 0.9997448325157166,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a1e8fa299b0017826cdad682c4a50e77": {
+    "polarity": -0.9015936851501465,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "87b11f2ef063db7b3d729f51afd12911": {
+    "polarity": 0.9994850158691406,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "590d076573ea787e6b3c03b274c19877": {
+    "polarity": -0.997538685798645,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "7806b1b58f3bb64418732f42ec9454ff": {
+    "polarity": 0.9976370334625244,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1f77e28f00cc889f5a042314233e85a3": {
+    "polarity": 0.9914990067481995,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1ef60f8d435e1de60aca7c9284783bae": {
+    "polarity": 0.9994972944259644,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "73320d8ec446b18b37c3901902e810dd": {
+    "polarity": 0.9995915293693542,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fedba7670d48b8552057d2395734ee25": {
+    "polarity": 0.9986497759819031,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bc3c14f422ac88de7235253064ed8e15": {
+    "polarity": 0.9996602535247803,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3bbcd5f296566c962969167bd6f72868": {
+    "polarity": 0.9997127652168274,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6ffd8b473afc4133706c16551d3f7101": {
+    "polarity": 0.968049943447113,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5a3adb94521491ee6f5951a7723c87fd": {
+    "polarity": 0.9947564601898193,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a4a2670dadd3527ea662e2490a77a279": {
+    "polarity": 0.9995417594909668,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3693fb0801411cff714586bc1bf861e5": {
+    "polarity": -0.9919748902320862,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "1f799372baf563fd9abc355ceb834bb5": {
+    "polarity": 0.9967708587646484,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bf286f65207e4616dc4fc41559c84d4e": {
+    "polarity": 0.9993435740470886,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "529e4f756e5070c1fb8ebe026cdb1aaa": {
+    "polarity": 0.9994997978210449,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d852fd4445cbf283307dfe74930c91a6": {
+    "polarity": 0.9989870190620422,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0f82b87f8e26bbdf5e2296d498acb72b": {
+    "polarity": 0.9985709190368652,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "368c3f4c90a902991c0717bdc47ae4b9": {
+    "polarity": 0.9981745481491089,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "763ca63f80ebdbd5582cc07e8fffca0b": {
+    "polarity": 0.9901819825172424,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "292b164e5f301ff22f22bd9781892114": {
+    "polarity": 0.9992550015449524,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d870aa9fa8630fa665031c243fe8ef71": {
+    "polarity": 0.996056079864502,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "03624570c0f311567b22b9be88ea383e": {
+    "polarity": 0.999401330947876,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "491448980a13a7d4530f2c2104aee680": {
+    "polarity": -0.7890194058418274,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "684f16be3e68a22d2ebdaa40f1e730e5": {
+    "polarity": 0.9927147030830383,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "36da8ce6588c90d00147095ba06895ca": {
+    "polarity": 0.994413435459137,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9afc6355765172c064d57bf6ee32cb95": {
+    "polarity": 0.9143620729446411,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0a65a0b7e419c74779028962712e755e": {
+    "polarity": 0.9991114735603333,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cfd8e87b2a986ea98868b20c815c9abe": {
+    "polarity": 0.9988798499107361,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9ae83dbd446dcf499139bc07766b155f": {
+    "polarity": 0.9958347082138062,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3d418c8f7b49e70f7162b4c133789bb7": {
+    "polarity": 0.9986985921859741,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c9a7d1687cbd7ddea2e82ffe4283236f": {
+    "polarity": 0.9996497631072998,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "af2e98d3a84d5b5736f4ab45d6134e58": {
+    "polarity": -0.9743342995643616,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "173ede945df3ac56ea135374a00ab91c": {
+    "polarity": -0.9867983460426331,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "ad58507fc3d515065b0fd2a705e768af": {
+    "polarity": 0.9993759989738464,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ed2971131f0587d8439450a6d1019e9f": {
+    "polarity": 0.9977147579193115,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "53363510dd0d8d9965e3f7e6e4b72b1a": {
+    "polarity": -0.969011664390564,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "67c392ecd1a1d6da9b74d928264a040f": {
+    "polarity": 0.9963441491127014,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "17394c75080e1c70a8c388d781324263": {
+    "polarity": 0.9925593137741089,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c8a0598ab08f3c8999d5d0d3089c07ab": {
+    "polarity": 0.9987488985061646,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "870d805f386af37c1fbfb35cf1f3db7d": {
+    "polarity": 0.9858350157737732,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f41bc8c4682f1b4f1832d7835502a177": {
+    "polarity": 0.998100221157074,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f41d9c8520a27142f91372e7bf81ea35": {
+    "polarity": 0.8100165724754333,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0ad8e16a0be7d424fcd3a3af38d0b0aa": {
+    "polarity": 0.9341613054275513,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4e0294dfa59b53d71c0b9a407d75b65e": {
+    "polarity": -0.7488772869110107,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "f251f263a16a653a99371e7e7a441910": {
+    "polarity": -0.9955776929855347,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "5d8a9b59e5f34f6ba7d4df926def1961": {
+    "polarity": -0.9782224893569946,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "1eb419641b209493f7badfd396f17510": {
+    "polarity": 0.9964137673377991,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f5a2a65c3d8e993dd16055020ec6de49": {
+    "polarity": 0.9952098727226257,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "eca2408f7d236bb384c8191ebe290a38": {
+    "polarity": 0.9990110397338867,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8de876b7fcc84a972ac9011a0c8cf42c": {
+    "polarity": 0.901402473449707,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e46182d102d3e6602f2941d02482a950": {
+    "polarity": 0.9961665272712708,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "25e52144a5a4b0ad8370375e61d7b282": {
+    "polarity": 0.9732376933097839,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c78f32f3083c4feb596576377236592c": {
+    "polarity": 0.9971413016319275,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "477ab9818538aabaaab65cfe1efcc7b9": {
+    "polarity": 0.9996040463447571,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fbabc294433310f06461403daabf222c": {
+    "polarity": 0.996356725692749,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e4c1daf51b9e4c58e9e09e6412379598": {
+    "polarity": -0.9949461817741394,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "d5c5448e4b3ca3502fb6c4e2dd0c4ee6": {
+    "polarity": 0.999101996421814,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ca49773f81d6787ac5d156dafcc3a9de": {
+    "polarity": 0.9767792820930481,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ec097550b39317c7190d603e55c12d12": {
+    "polarity": 0.9993695616722107,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1a0e7e4133fd22ac617fed1d76ee42c2": {
+    "polarity": 0.9855157732963562,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "aa64b32fd638417ee7ddf1c4436a52b3": {
+    "polarity": -0.7762580513954163,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "eda3a4919cbaef86c9b316e4ff7bae08": {
+    "polarity": 0.9929041266441345,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "137409afaa8f03839b8c52e3ca2688f6": {
+    "polarity": 0.9993910789489746,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "10189cb1189dfcf257e91ea66209594f": {
+    "polarity": 0.9988530874252319,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "205c895869d64bb23ac6709559e98cf6": {
+    "polarity": 0.9886054396629333,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e37ede015db8bfab7b6e6da9e8920355": {
+    "polarity": -0.9780793190002441,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "2487bac5cac8dddb3beb1904a11cea76": {
+    "polarity": -0.8704435229301453,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "3f7f9647d478cc709971d6c9b88f1432": {
+    "polarity": 0.9923624992370605,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "42f1d034082195b039dc32cb7cfad008": {
+    "polarity": 0.9886664152145386,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "756107e09346250b244b6bf8ceefa153": {
+    "polarity": 0.9995840191841125,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5e5412eec9147667ca8929f00a1f07dd": {
+    "polarity": 0.5782570242881775,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "17dc8bdb77c91eec785ceaaba4fd3ed2": {
+    "polarity": 0.9994584918022156,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f473a84804d1c09e435ceea0481f0d5a": {
+    "polarity": -0.9944761395454407,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "471f93b75fede84718c2aa71b794d9a2": {
+    "polarity": -0.7023075222969055,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "e5059695434ef3b5ef4d6f725e695424": {
+    "polarity": 0.5229876041412354,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "20f454e02bee132dce187c9e31de5585": {
+    "polarity": -0.9996662139892578,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "87e3cf1b139b7221f842f838ea6c93cf": {
+    "polarity": -0.8410789966583252,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "ccd0728d405ac2bca35f4f5ec48dcd7a": {
+    "polarity": 0.9989804625511169,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7bed45e6a30cfdb8112edb32b8a5cf25": {
+    "polarity": 0.9975647926330566,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ff1a086bb1961edd21f917803d2e7992": {
+    "polarity": 0.9987947940826416,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "45d130a931d4f81b8266a9da1bcc49be": {
+    "polarity": 0.9993582367897034,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7bb7b50dc71f4f7fe21755887067ed3b": {
+    "polarity": -0.8529581427574158,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "2053f08840ed51de082afee6460dc0e7": {
+    "polarity": 0.9986119270324707,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "10f561ecf29531cdb2c47766610b94c2": {
+    "polarity": 0.9990278482437134,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "474e90f97877a3d16b938289f6f60c84": {
+    "polarity": 0.9991617202758789,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a7fe09cf9b7814f7b45a95344564058f": {
+    "polarity": 0.9990695118904114,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "27186b7e547872b0abc4a6568ed7c29c": {
+    "polarity": 0.9995228052139282,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1bdb41f5c241ec5edce75145e7213098": {
+    "polarity": -0.9711126685142517,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "ace3acc08c466daea0f6dd08ee683198": {
+    "polarity": 0.9728751182556152,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1090bfec5681140cf4ae2a669cb275ce": {
+    "polarity": 0.9931982159614563,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d8647287e320156d37b04e47d3afb62a": {
+    "polarity": 0.9986048340797424,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "175789bbadd85ab8230108b8210368f4": {
+    "polarity": 0.6357101202011108,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f1e9422e1052b1efb10042835e8c3ff7": {
+    "polarity": 0.9991391897201538,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "512ee8eefa94f46cdec178ff2e7edfc0": {
+    "polarity": 0.9997772574424744,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "11fead22e1639ee812d8a24f574154a0": {
+    "polarity": 0.9979762434959412,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7f773363de33d297ba6d7ff6efe618a6": {
+    "polarity": 0.9985791444778442,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "45a330f386c966617dbdd05de860ab1a": {
+    "polarity": 0.9934972524642944,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "51043195ace4a8c21ed2e393e3efc73b": {
+    "polarity": 0.9956627488136292,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f30b852121401d325f8a43389de0b7b0": {
+    "polarity": 0.9906949996948242,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "50cb7a3579ad42664697d9cf6aaf74b5": {
+    "polarity": 0.9997714161872864,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "22581a27624e7b95cd4452ff94aff977": {
+    "polarity": 0.9994006156921387,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b7980cdd97ecbed3bc5c737f76fafa0f": {
+    "polarity": 0.9955130219459534,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6a478397edfe11c08c7fc8d194ec77d7": {
+    "polarity": 0.9810352921485901,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2178d43bd0b4706097adc0f81c509f86": {
+    "polarity": 0.9843287467956543,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "865b21611345c3b83f04e76d1fa505ff": {
+    "polarity": 0.9978697299957275,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "58f562017172f2ff3286082e04cbab7d": {
+    "polarity": 0.9891742467880249,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "90c805405493b246d936c6d769eed222": {
+    "polarity": 0.99931800365448,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "338689f6fcbc6afe80a596ab54131319": {
+    "polarity": -0.7294479608535767,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "57723596e6f03fb814f3ddf1a8bad930": {
+    "polarity": 0.9964459538459778,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5807abe36fd4032c85fcd574634f4014": {
+    "polarity": 0.9990215301513672,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8e3f8923b39fb734bd5a179e2473c8e2": {
+    "polarity": 0.8116067051887512,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "844a3d9fd0eb8bafebbf607f1137c982": {
+    "polarity": 0.9948285222053528,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "13c7bfc6e9bb8dcf7be23a4c941a032a": {
+    "polarity": -0.9992349147796631,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "d61763234d587646f0ad248ceb888260": {
+    "polarity": 0.9891766905784607,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6577e1910daab3a3613ee021a4549ca5": {
+    "polarity": 0.9820889234542847,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cd180ccf22ebdefd87c6f9d706958aad": {
+    "polarity": 0.9991160035133362,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "37efb97ebd55ccada674c503a0fe9da8": {
+    "polarity": -0.8721646666526794,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "99011c1bb057de883a68f5cc0ca76a68": {
+    "polarity": 0.9957183003425598,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bb27252bf85be763a6eb65dbbe98cd8a": {
+    "polarity": 0.9990154504776001,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "73ed80b8ca398952529d4b6871d11e5b": {
+    "polarity": 0.9996570348739624,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4d61a55d95771795ef9866b23ddcfe80": {
+    "polarity": 0.9995098114013672,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "589173136bb992ce9ff689d5ea94ef60": {
+    "polarity": 0.9986907839775085,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "eaf0fa652d57752be317f5e3d6576910": {
+    "polarity": 0.9673161506652832,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f351a92142fa04e9bca5825e1c95c4c3": {
+    "polarity": 0.9980903267860413,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "22971a8167ea534d9044dbb04d6eba63": {
+    "polarity": 0.9950148463249207,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b3f10abb059260876a2a3a7cd25dc4b2": {
+    "polarity": 0.9980408549308777,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9fdbcc83f9c071de310b251d07a6748d": {
+    "polarity": 0.9870527386665344,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1684dfb8541386664134072a734bcd33": {
+    "polarity": 0.9997921586036682,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0372d33f36436a5f6cbcb21523db18a0": {
+    "polarity": -0.9789474010467529,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "c061303040a79bc16277f7ec56ec1afe": {
+    "polarity": 0.9951494336128235,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "60d219775358d3b758e5daf2b986f1bf": {
+    "polarity": 0.9959650039672852,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ff66d9491362d916ee3978b528e9a636": {
+    "polarity": 0.9419814944267273,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f0728f45bb39f9984323bd119eb3e64e": {
+    "polarity": 0.9924901127815247,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d4a7b78ef86f1ab4d83d7e72c5fdcc4a": {
+    "polarity": 0.9993458390235901,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f8d9d0cba8e728ce2480eb4885a9dfb2": {
+    "polarity": 0.9986856579780579,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b07908c0837d121bea69be67fbec76a4": {
+    "polarity": 0.9996411800384521,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9b2f58adfe7a8d12090c251208c9de7b": {
+    "polarity": 0.9953358769416809,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ae0a955160cee34065b54f51a1f543f0": {
+    "polarity": 0.9846799969673157,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fea3b2f9548b2051b8915e1c289006cb": {
+    "polarity": -0.939433217048645,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "0f98cd5ce7636a80c98d2c34821aec64": {
+    "polarity": 0.9995506405830383,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a61653c38ac63ede07e39552fd70ef52": {
+    "polarity": 0.9980030655860901,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c8dc1e73ae38ed15b46dac2a80a76c8f": {
+    "polarity": 0.9800251722335815,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "802c886f01e4337774438f56c80928eb": {
+    "polarity": 0.98386150598526,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "68fbe5ea301fd0394d7ddbc09bfcc9b9": {
+    "polarity": -0.9591026306152344,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "289ebc70984febf37dec5d546aab4a93": {
+    "polarity": 0.9993025064468384,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5909bbfe08d65c6a3de3fcd532f521a5": {
+    "polarity": 0.9944130778312683,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "90d572b475d5a76b692c31ace6dce15e": {
+    "polarity": 0.9997051358222961,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d6a99513ab6bce3bc07ab5d44a525458": {
+    "polarity": -0.6498355269432068,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "563bbad399a84cb2cf8bc601fa3cf164": {
+    "polarity": 0.9948084950447083,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1bdf4ebca07c1c27d9a5001683ba566a": {
+    "polarity": 0.9985272884368896,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6168b54d5d731abe6c34ae4c83435596": {
+    "polarity": 0.9981697797775269,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "96d80b600e70ac2d69e2f06a4f3c1f8b": {
+    "polarity": -0.9841857552528381,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "818095c322b4f69c329836ce7d864905": {
+    "polarity": 0.9996242523193359,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c6b3d86f12a8eb7a9e084f5f6f64377b": {
+    "polarity": 0.9972817897796631,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "992b714dd654b30f48d26eabd9293e1c": {
+    "polarity": 0.9977996945381165,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "318533f9e37b35ea28306517e21b7b3b": {
+    "polarity": 0.9992539286613464,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "444847fd69a431d03e5799035565dcdd": {
+    "polarity": 0.9912872910499573,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "93dd4b28da52494ec4c3be74056cc453": {
+    "polarity": 0.9976710677146912,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5914e3d352e2d60ced0443d4ccb6a5cf": {
+    "polarity": 0.566101610660553,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "45b64ebd1772bc7928e480621b11510c": {
+    "polarity": 0.9897202849388123,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6aa5fb757fc75e1716b72e7b9551972d": {
+    "polarity": 0.9992420673370361,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c5b4242b305eb38fda2975342ca15c20": {
+    "polarity": 0.9986988306045532,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a016162927c5e6710dc05ba9b71fa8a2": {
+    "polarity": 0.9905433058738708,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e411a0a46b56f0fe958b97732c0f3c4c": {
+    "polarity": 0.9965676069259644,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c69571b2d17af317a96396b139807d7b": {
+    "polarity": 0.9894946217536926,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3db9bba2d8e3c7503e09b7c3e816982d": {
+    "polarity": -0.9990183115005493,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "a74a1b096ac5f2e26f105db4c001ad09": {
+    "polarity": 0.9996726512908936,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f1147487c98836eeeeaabf26fa0aae6f": {
+    "polarity": 0.998210072517395,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "34c7089d3d11cb2c60cc1173f3ff3623": {
+    "polarity": 0.9869704246520996,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a34a86e267bb249648d670724d647fc7": {
+    "polarity": 0.9873858690261841,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "68d9993760d5e64284dee3b04326e4e6": {
+    "polarity": 0.9220253825187683,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6b25df78ae63693c142fdc41c4edbcb6": {
+    "polarity": 0.9982253909111023,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "641baefcabc3387daab27003522306fc": {
+    "polarity": 0.9949386119842529,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b249929489d235480d17cc7b1935bd40": {
+    "polarity": 0.9683425426483154,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d99db88f28f9ac93c12dc1f74f6f619f": {
+    "polarity": 0.9964593052864075,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "94aa9a6f03726a34b2e72162d0a026e7": {
+    "polarity": -0.9987494945526123,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "af873e88d8e3399cef80ef7cd4ed620f": {
+    "polarity": 0.9988958835601807,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "faae8c16b1a874da6e53b003be8ae9e4": {
+    "polarity": 0.9980339407920837,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6444631c77566c4c2d7a4e009e2373b3": {
+    "polarity": 0.9859289526939392,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cdbeeb7a68ae148fa3e7b6b96c752d26": {
+    "polarity": 0.5340809226036072,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5e892d6dbf35e09a94c02af8d52edddd": {
+    "polarity": 0.999365508556366,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "18223509e6b840866a67991b98a53cd3": {
+    "polarity": 0.999053418636322,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "238f68a58e3a401830bf33d418f20341": {
+    "polarity": 0.9987340569496155,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9961628110b1b9239a0782a2879ab51a": {
+    "polarity": 0.9991371035575867,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5b7e0770ccc1b8931a5fd9388ece9391": {
+    "polarity": 0.9864098429679871,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5437060289727ec51b5f4e3847166fc8": {
+    "polarity": 0.990845263004303,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "66b784e80a0d7baf93ea5d5af1f26b1c": {
+    "polarity": 0.9985653758049011,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4f8acd1f37a37168c092a48b86c44f18": {
+    "polarity": 0.9986122846603394,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e3e130d80d549c0fab97bec5d3d0158c": {
+    "polarity": 0.9989676475524902,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d788b246dea1943fc38d74ab20c14185": {
+    "polarity": 0.9974461793899536,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7337466a1b33c5c9ae477250d3504933": {
+    "polarity": -0.9921966791152954,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "8a74b430e25dc20bc23444baf88455e5": {
+    "polarity": 0.9990724325180054,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4490398325b5d73bba489ba9f533cd80": {
+    "polarity": 0.9951466917991638,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "be9ceb77b5f4170883f89deeb206e223": {
+    "polarity": 0.9990321397781372,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "832db15dda8e6c0ec1df7945acc35b67": {
+    "polarity": -0.7069694995880127,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "74265623a20b7f50b6a13f6d02344084": {
+    "polarity": 0.9991029500961304,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "13222efa098b2b9428c735e22caade5d": {
+    "polarity": 0.9967873096466064,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e0ac2e3ae07a2523adfe45b43ea65aaf": {
+    "polarity": 0.9840443134307861,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7a5d17699901ef6853d67c2c65d5720e": {
+    "polarity": 0.9982424974441528,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6bd88e311844f0d9067aebfcb259bd33": {
+    "polarity": 0.9987887740135193,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "79c9b199453e1bc17d9f54c8456c1365": {
+    "polarity": 0.98592609167099,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4f25f7f6e95e2a1907f25f626fa64519": {
+    "polarity": 0.9873812198638916,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2fba0ec7ea028db7e7c7905931b039c8": {
+    "polarity": 0.9998037219047546,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1aa2c50a5265a53156c7b340941c6cb7": {
+    "polarity": 0.9990863800048828,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "65257d2425cd2dd2e8a5a5472c58986d": {
+    "polarity": 0.9924167394638062,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0a51e497918f1a88215dd641365fef3b": {
+    "polarity": 0.9953943490982056,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "974707b63d661e776a27d8ce83fb1c33": {
+    "polarity": 0.9966026544570923,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6339907c5f9885dc31078d29443a359c": {
+    "polarity": 0.9967047572135925,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c561ec855a6a3a60e8c5376bb44363d9": {
+    "polarity": 0.9992589354515076,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e3719ad934c8f0b8cfd1f3a51426245f": {
+    "polarity": -0.9523383975028992,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "0e27c275d1a98b145dc9e352158cb3c0": {
+    "polarity": 0.9967363476753235,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ccd271e9d382c14c9a83e4b46a09ccd6": {
+    "polarity": 0.9993599057197571,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4035b6d9dee704c2f72075022aa6e278": {
+    "polarity": -0.7236701846122742,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "de80c0419e648bcf633ff68680e7ac8d": {
+    "polarity": 0.7036818265914917,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "51320a7678a9d41195acc71faaf45b65": {
+    "polarity": 0.9992390871047974,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "90b361cbbe471c606d86238dff3ab036": {
+    "polarity": 0.999091625213623,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "eab98e568f7b22fd6047b87a5a4bbe54": {
+    "polarity": 0.9991157650947571,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "90b38223f24198ae3a99070fbf8983c8": {
+    "polarity": 0.998353123664856,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f5208d9d845998425af33090a78cf952": {
+    "polarity": 0.9940540194511414,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c3e82bb260212af94e0ac394886ddb41": {
+    "polarity": 0.9953253269195557,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1438342b9d1e0a5c888ed8134de4d518": {
+    "polarity": 0.9121711850166321,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3e90661d8986506a7f2c1ee62faa5850": {
+    "polarity": 0.999774158000946,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "324ad4a663ac06f775027d8aa52a4d6d": {
+    "polarity": 0.9995517134666443,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9b7a3a03f0a8a3c04714c452edd25526": {
+    "polarity": 0.9958940744400024,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "603b2e1ec34d83d09ea580762e10efa2": {
+    "polarity": 0.9969964027404785,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "95a6091c3c4b9089a9a8b84718186596": {
+    "polarity": 0.9739433526992798,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "40e2bd9373541476237f0eb5eb30b863": {
+    "polarity": 0.9818832874298096,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e54525753f2668878d6d73d9c9bb5048": {
+    "polarity": 0.5779512524604797,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f7b2601d6f334fa7f05d293944c4a7fa": {
+    "polarity": 0.9963364601135254,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "510e168e066098bad16943b96cc4e713": {
+    "polarity": 0.9990326166152954,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "14b072b7fe1d59e3c409d5a2425803a6": {
+    "polarity": -0.8873199820518494,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "95127c89f52f6faacd2ced43df032ead": {
+    "polarity": 0.9904476404190063,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e902d50d6b84b25a3a54373215c276da": {
+    "polarity": -0.9865961670875549,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "dc0f7ad83f98c918ec369cb86736ab4f": {
+    "polarity": 0.9997562766075134,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d3a83a69b498ca75b99a60bf483f1452": {
+    "polarity": 0.9740332365036011,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8701c4fb628742209653d925c6993c6f": {
+    "polarity": 0.9988999366760254,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "082651115e1bd80d48f7ff27371b8ca1": {
+    "polarity": 0.999785840511322,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "989edb86b4d2828884985755e5b40565": {
+    "polarity": 0.9981124401092529,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3314c6288e68d11a9ffb185df7a9917c": {
+    "polarity": 0.9897968173027039,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "25f9d1fba158e4489777ce97462dd612": {
+    "polarity": 0.9997801184654236,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bbf0b7cf8aa2db39a212f921484d5f4d": {
+    "polarity": 0.9817697405815125,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ffbe34059d31db32d1d3c75d25a47cc9": {
+    "polarity": 0.9947705864906311,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "58c811fce9988c91124d9d88768053ae": {
+    "polarity": 0.9950097799301147,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b08b0d29852d0cdafc85179a7811c1ea": {
+    "polarity": 0.9914167523384094,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "108af096f0bc8681dad852edebe05275": {
+    "polarity": 0.9976050853729248,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7603db12d855eaa429b5fc6e6796007c": {
+    "polarity": 0.9994649291038513,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "df25b99ad94e9f53bc0edf2ee866c359": {
+    "polarity": 0.9987034797668457,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c83fb39009309df1ba8e2d9004202d5c": {
+    "polarity": 0.999426007270813,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "11e8b5e1c7369dd1279cac54793f6e38": {
+    "polarity": 0.9978323578834534,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "591667dfd025f0193d6198e93d679082": {
+    "polarity": 0.9987069368362427,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b29890661b112b63e690b6912cd64378": {
+    "polarity": 0.9998003840446472,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5270a69603f8ad9b34545ae5441871e1": {
+    "polarity": -0.979300320148468,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "212a35b73ca5b9d8ced0d8de8a631ad9": {
+    "polarity": 0.9952182173728943,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "82a0e58094054dbf002f39820b9c03e9": {
+    "polarity": 0.9958855509757996,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f7853c25e492e45488db2bbb77beffa2": {
+    "polarity": 0.9794110059738159,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a3efb339029db2ddb22a2ac2f8d899f4": {
+    "polarity": 0.993614137172699,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f9087ef9ee6778d2d013367ddab790be": {
+    "polarity": 0.9985730648040771,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8950243706a2361ec52edc2ccb64862c": {
+    "polarity": 0.9992014765739441,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "aedd146d7a75e7cf8f4c908a65e560b2": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "abeba75d12f1fa6ba23b8feacd006a44": {
+    "polarity": 0.9962918758392334,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3e4abf0aa35104dec90a6a79921fbc03": {
+    "polarity": 0.9997453093528748,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d3017f625e60f2cba2f526557041dc4f": {
+    "polarity": 0.9997320771217346,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a9901c87aa824ebf60305f43edc60f16": {
+    "polarity": -0.9776709079742432,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "00aa77143bcae3e96e649052dca089eb": {
+    "polarity": 0.9996895790100098,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "35daa71b7233d5b26d6bf5225aea75cb": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "653fd34fa13b19faf73d6f9f9a12dd8c": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "44de95f8ed2611e02637c3b44d1f1683": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "c6068dfddd1a6b2e71f7d35b74e006db": {
+    "polarity": 0.9940536618232727,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cc45142f6e355fb3752e819ff39c1174": {
+    "polarity": 0.9994633793830872,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a4bc8d78c0df3e64103ddd612a98e0c2": {
+    "polarity": 0.9988677501678467,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "580ce6e1bc0a6d4d9fe6bcb8ad71993e": {
+    "polarity": 0.9994465708732605,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "19839cfc884a59b603d29f605803f8ea": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "199ad86ea31c52812933166f7c9cb577": {
+    "polarity": 0.9621504545211792,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6240b178a3198acbf77e0a50aacd0b8c": {
+    "polarity": 0.999747097492218,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c774868b12a5eb36b68449754bff9b33": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "097da4a9a4a35ed09a14e0a58300be7e": {
+    "polarity": 0.9988721013069153,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a012606ade76d1abaa60c99c8fccff58": {
+    "polarity": 0.9997336268424988,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8f31926c8f2e74021d99766a6cddc971": {
+    "polarity": -0.9988387227058411,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "0df97c79e2958af8de4745ba89563f27": {
+    "polarity": 0.9997220635414124,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "50f5d3b25fdb3d02d98811169007eb6b": {
+    "polarity": 0.997887909412384,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "45efdd9db2d0a486476f77849c2c483e": {
+    "polarity": 0.9996379613876343,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4a285860bfc639d43bcff1129b75be54": {
+    "polarity": -0.9754875898361206,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "eb0b9f7616226905344a6cbf4cbad37b": {
+    "polarity": 0.9997681975364685,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "86f6aadc23c134fafa1f403966ccadc2": {
+    "polarity": 0.9976834058761597,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6cb1adf5a36d86cdfdf6618e158ed778": {
+    "polarity": -0.9824152588844299,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "ec73b6f4b55b2c110666f7c82198f7f2": {
+    "polarity": 0.9895539283752441,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9bc1b955cbff3e9499c18321ee52753b": {
+    "polarity": -0.9867934584617615,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "f1db7a763f2cee9d0daf6a8b42f9f07d": {
+    "polarity": 0.9836358428001404,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b6dd789918dbd43712c9e8cad361c003": {
+    "polarity": 0.9473262429237366,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d94f02586644bc99926c9c088373c0ac": {
+    "polarity": -0.9571076035499573,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "dade0db9ac8ff4f4ecded478f1e58fef": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "de78fd028fe8dbb05557424e6481bb68": {
+    "polarity": 0.9998183846473694,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6a5b6bd7c03670a43552ed37f0c43c06": {
+    "polarity": 0.9990216493606567,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "58e20f6a6c293af1d1bf1901d91f90d1": {
+    "polarity": 0.9996566772460938,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bed1df6530101454df30e7bf0a97fa9d": {
+    "polarity": 0.9991763234138489,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "60ac0cf776ff862df9dc8836c6315216": {
+    "polarity": 0.9982463121414185,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6d6857756c87eaaad340a337b51f2da5": {
+    "polarity": 0.9983716607093811,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2b168b146842d012ccd708a1530641bf": {
+    "polarity": 0.9943187832832336,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f8d55c888754662047684f92071e368b": {
+    "polarity": -0.9537792801856995,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "c725be501fc562d1b10b44c5211d1484": {
+    "polarity": 0.9997205138206482,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7bf714013fadd3eadfd8bb2d051924bf": {
+    "polarity": 0.9991713762283325,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3303b082dcd221161c04066513383290": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "5a3defa87de6149859c864db17a6176b": {
+    "polarity": 0.9987443685531616,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "47b982631a42e23d21f444f54f3a3898": {
+    "polarity": 0.9882964491844177,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c0fb0dc3e62add849eabf2733c0e355f": {
+    "polarity": 0.9993557333946228,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7d681524c5ab587c0669aff59f70d1a7": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "88ebc69dce9f0c955b2487ae3882a9bd": {
+    "polarity": 0.9979315996170044,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "74d5cb04984e50d9a57a5c92f1d8c2c6": {
+    "polarity": 0.9998190999031067,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2ca559ede1b46590e133937745b85553": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "bf210bb23753b17219bc2528d5c31149": {
+    "polarity": -0.9685987830162048,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "8ac2a6e8126bd42f6e990515ab774609": {
+    "polarity": 0.999482274055481,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8c7c0e1135cd23ff4904c4422602bf1f": {
+    "polarity": 0.9921308159828186,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7c0372022640eb352c802745e3d49a7a": {
+    "polarity": 0.9984937906265259,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d120fe3a74bb214301334f122bfed6ab": {
+    "polarity": 0.9997902512550354,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c4df4d2d15db78dea6540ca5567bf3a6": {
+    "polarity": 0.999153733253479,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "26f923eac8c73ffc46885ac80c05fc5a": {
+    "polarity": 0.9957994818687439,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4aa4ebecc9b1c817fb6c0d9e9056fa5e": {
+    "polarity": 0.9988154172897339,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a3c36d0314c1e4e9e37d7c13cd4c1acf": {
+    "polarity": 0.982036292552948,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6850562a77f0e06bdde2c7ee21c9835a": {
+    "polarity": 0.9974676370620728,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "76c5a0d3f16c7b73c1025ab23285851e": {
+    "polarity": -0.9586151242256165,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "6f0f30c5aa402a8cde078dec7a95f04c": {
+    "polarity": 0.9986844658851624,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e963ce1c0be0614ff1c2e5902858a781": {
+    "polarity": 0.9997660517692566,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a69bb15bc9ea438505163613f68cfdd9": {
+    "polarity": 0.9994531273841858,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9d4d83150ce49633ea396d57bde9ae7d": {
+    "polarity": 0.9996241331100464,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5c137cdce1615b7aa3accfe0261b6e21": {
+    "polarity": 0.9991484880447388,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "54be0a6bc3f7408c4ff82b4bc20dc027": {
+    "polarity": 0.9815198183059692,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ef7626d779ad5e98ce60de9312bace93": {
+    "polarity": 0.999460756778717,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2fb6a77a3e59881455cf5cc806676493": {
+    "polarity": 0.9788221716880798,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9fdc82734eef2e4824d7c628c8bf96ee": {
+    "polarity": 0.9998080134391785,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1c7d67308c17cc1533fe5ffb09647766": {
+    "polarity": -0.9606361389160156,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "57bee0aea5a2fcfca981a3c43285f57b": {
+    "polarity": 0.9955116510391235,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "dcf3903007919f5d9d866bac4dcf2131": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "0e469cdf2934d6f65297ac7908437088": {
+    "polarity": 0.9988542795181274,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4809bff1685306e20c57db956850a537": {
+    "polarity": 0.9971455931663513,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3364040ef99ea5a5777b4cacfda32063": {
+    "polarity": 0.9991915822029114,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "40e468cf37d04f6a80c2de829f3f4814": {
+    "polarity": 0.9978996515274048,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7d23048b9df6ba23dd8b55ad2c843351": {
+    "polarity": 0.999099612236023,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fd7b7bedc4f8618e815ede144b9dc6da": {
+    "polarity": 0.9931100606918335,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4d71240f105b4b79bc8c196176ca1ee6": {
+    "polarity": -0.9919539093971252,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "9fce87b8eef3bf039a409a3c614e1a23": {
+    "polarity": 0.9997370839118958,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "55734a0ed73b5aad24c9855c7d782106": {
+    "polarity": 0.9970111846923828,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f695f28c23683b77bef72343b121590a": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "71bc1ed690051a7e4691f3ef6708beeb": {
+    "polarity": 0.9952091574668884,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b60d7e05cab9b1048b893800d085fa0e": {
+    "polarity": 0.9981166124343872,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2e11adc5ad84fdd803c7763eac36ed4b": {
+    "polarity": 0.995375394821167,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7483d712d7ee06a487e0e5b387c4c604": {
+    "polarity": 0.99162358045578,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "655b72f2be89cb83c92fe172f216f7b0": {
+    "polarity": 0.9966118931770325,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "75e8a0836a9105ca3d2e2bfb1a3ab032": {
+    "polarity": 0.9992585778236389,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "57133c175d2c87deadd8f08fcc336f9c": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "0055d832da56e6cc8c2f0655bb16ad2a": {
+    "polarity": -0.9758057594299316,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "fd02c11adf4f1ef06f69ff3af69f4032": {
+    "polarity": 0.9997674822807312,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bfff37d16f250641b82e86be37cf83f2": {
+    "polarity": 0.9922153353691101,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e5f167abc89b0e324f2dddd86067a521": {
+    "polarity": 0.9990793466567993,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "23109983eb832ec742780279e8f5985d": {
+    "polarity": 0.9997814297676086,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0ee87bae76f1a6d9b1751e1be84e77dd": {
+    "polarity": 0.9990224838256836,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "01f39cc5c897dd59b1287db35ece1e6c": {
+    "polarity": -0.8957611322402954,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "5b92565ddf7816929f29a76b7edf1200": {
+    "polarity": 0.9998027682304382,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "be9c41ebb98e8b6be25dc9529032d146": {
+    "polarity": 0.9991266131401062,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d22021d7fd7cbb8bb672339ab8aed84a": {
+    "polarity": -0.9698461890220642,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "144f99fd61977f3414c7ee17756e4484": {
+    "polarity": 0.9937553405761719,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4332f7c9b2811d591f6b07a0c102044f": {
+    "polarity": 0.9988017082214355,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c2a103cbc4bba7a27930b3904e96f519": {
+    "polarity": 0.9994698166847229,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "206ffb6e950f9840200ab63706e19c54": {
+    "polarity": 0.9994112253189087,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c90ea2ff307fdba7b771e23d09f7a7f0": {
+    "polarity": 0.9990969896316528,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "adcaf0d4c2788f4b5238cd64ae8fb530": {
+    "polarity": 0.9990960359573364,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "254759c19d93bfc09984daf2eba9b13a": {
+    "polarity": 0.9991884827613831,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "897bf921de3b6ba555251185a283af76": {
+    "polarity": 0.9776474237442017,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fd4ec21ad2e3ad55616b6e3f00ef26ef": {
+    "polarity": 0.9997445940971375,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "191bf292834e35f40a93a85e50bb61af": {
+    "polarity": -0.9880884289741516,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "ecdc83f1fb6e6792e1faf27df1dd0253": {
+    "polarity": 0.9960198998451233,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bb835723910d7c20b1bf650922ba0766": {
+    "polarity": 0.9956755042076111,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e1a658d994544af7e9ffc50d90eee1a1": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "87ad7e01fa7daca87eec16d21d905050": {
+    "polarity": 0.9990434050559998,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "876d2d0aae8d1ecf80bcb37d4f48ee7f": {
+    "polarity": 0.9994636178016663,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ea210e2e0e234a9309005bed10563272": {
+    "polarity": 0.9993591904640198,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1da1ee20753b6b19d21ce8980ae4461e": {
+    "polarity": 0.9988240599632263,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a868204099836d7b37e78e3617d69006": {
+    "polarity": 0.996491014957428,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f7ecf325b9baa59d1a921ab02f034844": {
+    "polarity": 0.9974324107170105,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "20a6a465d497bf0ec01749450106e2c1": {
+    "polarity": -0.9980733394622803,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "d55a9dcbdf507be1a2661701489c2455": {
+    "polarity": 0.9994940757751465,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9e885684e45ba4ff55e6c5179c6f8b77": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "fb88a37c03a69d867a70c64b6a461cff": {
+    "polarity": 0.9943272471427917,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c195220676d75c8d1b328fc6cb6b599f": {
+    "polarity": 0.9975593090057373,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "539f2d3f18db43124eb26ac3681b58db": {
+    "polarity": 0.995375394821167,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "870a87c492b60ce56dcc1733ccbe5390": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "327638c96a8a5b3767edb8e74d11bc56": {
+    "polarity": 0.9966251850128174,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "df87c511bd2dd6c48dc07531ce51c630": {
+    "polarity": 0.9988203644752502,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0286a84589c75a9fa61eb2f44a144baf": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "a6c3b27a8d0e5e3ebc3b73822f13ebe6": {
+    "polarity": 0.9998195767402649,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0fc2a6f8871e700b6cca74f2d90b647f": {
+    "polarity": 0.9887082576751709,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "68a92ed87d30049a1f89492522db4080": {
+    "polarity": 0.9988644123077393,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "42c845bd523fe1ba6b8b4ebc4d79fc44": {
+    "polarity": 0.9998168349266052,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "74dd37215ff16484491ca267ce416283": {
+    "polarity": 0.996821403503418,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ff385e967fcc569575629024b7c37386": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "be7ef8f28ef80773bffd1f6a487fbb3c": {
+    "polarity": 0.9996606111526489,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5144b51c47f92853802678f2064ab7ae": {
+    "polarity": 0.9986207485198975,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "97e7dbae5637e7ca76b28c1e71c48af8": {
+    "polarity": -0.9810774922370911,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "7dcd8093b96054a0c8e68ae3cb10e543": {
+    "polarity": 0.9963162541389465,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8da039afe23b9770766396315337fe4c": {
+    "polarity": 0.9997788071632385,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "06697fa7053e610cc93635771ad9cd28": {
+    "polarity": 0.9990886449813843,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0a30fc31125dda774ea24274f1fef6fe": {
+    "polarity": 0.9996433258056641,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "80e1b609ad426616578a6efe14cf2de8": {
+    "polarity": 0.9986732006072998,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "61981e1051ee3dc132c9a093f96f8628": {
+    "polarity": 0.9992461204528809,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "db65f5cb83025a413e5ab0e48cf6cc14": {
+    "polarity": 0.9956694841384888,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7b3502d954877cc2db823c3789f7fff2": {
+    "polarity": 0.999797523021698,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c96abb8d0cf69c06b06a365d4bc1fd1f": {
+    "polarity": -0.987725555896759,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "62b670cdc0fd7cc78678bb7cf7f72369": {
+    "polarity": 0.995843231678009,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6859695461c17434218342e259200b3e": {
+    "polarity": 0.9967764019966125,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c4ae039400fac06b4cbf98596abd7348": {
+    "polarity": 0.9950186014175415,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5fbe59589c98bb11db2845fc34126912": {
+    "polarity": 0.9625741243362427,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b722e0269496956a7fbcd521b247b3c8": {
+    "polarity": 0.9981061220169067,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "499b7b5c74d563c6be837588c5d1f82e": {
+    "polarity": 0.9994297623634338,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5d8f1cacdbc4932937dccd2445dbdee8": {
+    "polarity": 0.9993288516998291,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f604b6b5ac566db3c0e5c069032bef6b": {
+    "polarity": -0.9292935132980347,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "eed0695105344f68c031b4f140e9c7ee": {
+    "polarity": 0.9990543723106384,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e0ab1fcf3a0859652afc7b81108eeac7": {
+    "polarity": 0.9996216297149658,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "591c76ddbffbf528b305f91c4081e72c": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "63dc000821d3d99c7f6aa5eb9d64360e": {
+    "polarity": -0.9985113739967346,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "9b2ba59fb07779251daaf511141a22a1": {
+    "polarity": 0.9976884126663208,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "08544cd2f5e45522ef64772d133e4d64": {
+    "polarity": 0.9953559637069702,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e356e541fd66054ad16aa4d75f2e693b": {
+    "polarity": -0.9972345232963562,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "6acc1af96cac4e5227a2f1b374971ed3": {
+    "polarity": -0.9986050724983215,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "4a4daad585536df8fd79405e90cb4930": {
+    "polarity": 0.9988433122634888,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "57eead68a0279ca3e19fa4ae9531285a": {
+    "polarity": 0.9846720099449158,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "11f49eb2315c95b11dee9420a1aa9760": {
+    "polarity": 0.9994932413101196,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "37938bfed54c6a063e7402387c06ef65": {
+    "polarity": 0.9991395473480225,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5514d6efa339dad25e2584f92c104f84": {
+    "polarity": -0.9198423624038696,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "d8f93a16ea53ff40c8404f11bdc01a28": {
+    "polarity": -0.9980225563049316,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "6eeb08700ef5ca6bf24126048062b33f": {
+    "polarity": 0.9996685981750488,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3713c5f97662cf4a37368da976fa3b93": {
+    "polarity": 0.9643480181694031,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "89bc290cebb2ff39a8663d64dac2832c": {
+    "polarity": 0.9994383454322815,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "528a21e0e7da8091d357aa8063af84b2": {
+    "polarity": 0.997425377368927,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c2e6facab36dcd246e729fe46c568b2a": {
+    "polarity": 0.9994481205940247,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e53563e8aa972400621dcc8423383c74": {
+    "polarity": 0.9588478803634644,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "64946a02ee5a3b4b9dc28ecb28864f4e": {
+    "polarity": 0.9993046522140503,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c4f9066c8275b0ff46e90e94b4ba9e10": {
+    "polarity": -0.9382199645042419,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "c0e74a9ec0cdbbbf3da147ca8287fa2e": {
+    "polarity": 0.9992107152938843,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2f50d5bfb635dc2eb669336822b2f029": {
+    "polarity": 0.9776983857154846,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a2599f386956623fd98e7368646a1d40": {
+    "polarity": 0.9897768497467041,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d0ec74a747f78daa4b5cc4e1f34b89cd": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "ec1c667d897eb2a85ab2f0c8fa5adb55": {
+    "polarity": 0.9819402098655701,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8657a3d715e1c0d5a19e0485546884fb": {
+    "polarity": 0.9949677586555481,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "70598bed945b5921774086d2aa4f33e1": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "0c20985aedc0e2d231bc6f5ca2c7454a": {
+    "polarity": 0.996703565120697,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "635aefc4899b2fe19efc9d448e9e909e": {
+    "polarity": 0.9994133710861206,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8dd0971a02049d6b6c5d46d1ebd5e628": {
+    "polarity": 0.9971185922622681,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b443b3f738505385df3a981e5f0fd563": {
+    "polarity": 0.9936483502388,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "282aa883cad93617900b12821913436f": {
+    "polarity": 0.9985837936401367,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "daf977188172b9d2c15faf12c0f71f19": {
+    "polarity": -0.9960523843765259,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "3e4aeeb60996cc3d500f33bb1398a6d6": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "77beee15e4a063f8eb68d8a2c9bc42d8": {
+    "polarity": 0.999127209186554,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f860c430ffd4bc261d5f34699ae3ddff": {
+    "polarity": 0.9986023306846619,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "600755cb127a884a72ba94e7232dd942": {
+    "polarity": 0.9993372559547424,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "62c9522446597ddb85669bb5b4b8faf6": {
+    "polarity": 0.9972123503684998,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c95f7ace9842eb441e8a01f147e1b828": {
+    "polarity": 0.9943317174911499,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "edf5524a51bed1d093a691b5744f659f": {
+    "polarity": -0.9958307147026062,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "f0cded849d1c09fa21824e892f5366dc": {
+    "polarity": 0.9998026490211487,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "acdbc17b43db40a5ec5594adb45ff57d": {
+    "polarity": 0.9993378520011902,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ab9fa72ddb1a16ef8a959b5735444c14": {
+    "polarity": 0.9368005990982056,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2688c973dc3dfaf10a5160aa2f7747eb": {
+    "polarity": 0.9941582679748535,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6fb19b231119011daa973886da92cca7": {
+    "polarity": 0.9970719814300537,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "23b7f4abde9deafd6d677f812ff9a9df": {
+    "polarity": 0.9978126287460327,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d2c9dab193da3b40e8004a73d6391040": {
+    "polarity": 0.9994314312934875,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5ecbaad4ba1a8890f6ef82d4f5b30a1a": {
+    "polarity": 0.987505316734314,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "df983ebe17821c1a97a06f76b8f71c43": {
+    "polarity": 0.9972545504570007,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "78b227437cf524d8bda7c3b485f6938e": {
+    "polarity": 0.9996058344841003,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "dc0eff535b84184757d87246571a7f2a": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "335cdf42d2446017f55108f2572b7242": {
+    "polarity": -0.9770349264144897,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "d7a11f707939546ef40c070aaa026d37": {
+    "polarity": 0.9997534155845642,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a1c942fe6f1cc052e0d4445424fe355e": {
+    "polarity": 0.9979991316795349,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0cca757116d28d483843006088b8d57e": {
+    "polarity": 0.9985474944114685,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9c54d05c3c6edcf10d525334974b297a": {
+    "polarity": 0.9997250437736511,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "006b80b577bfeb111b42d48035eeab76": {
+    "polarity": 0.9963592886924744,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "852b61a1da84a5825d48cba9e078dbb2": {
+    "polarity": 0.9996516704559326,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c568c90c1f03e16404f14f23fb56a2b4": {
+    "polarity": 0.9996283054351807,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "83b3fcba0d81fb1d82b629c280b2f0b0": {
+    "polarity": 0.9978016018867493,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "75e6ed1dd8a7937f43452b50b0d061bf": {
+    "polarity": 0.9993491768836975,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "81ea806f1c294d0de75a211e716a9b88": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "af4c226b7421b771ee30d732b2b75969": {
+    "polarity": 0.9951081871986389,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "74c4d3431a78e1672dec2a226ea2dac5": {
+    "polarity": 0.9982511401176453,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b3cdadc36f9dbad12cb831eff991da7f": {
+    "polarity": 0.9997884631156921,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "caa5855e8a75a2a000dce2536399808f": {
+    "polarity": 0.9997124075889587,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2aa60fb0597ea082defe48e37cf49dd3": {
+    "polarity": 0.998369038105011,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bde75f14f6ea2583fbfe4a76dd9ea609": {
+    "polarity": 0.9994786381721497,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "979675306711ed74a3f2985737066999": {
+    "polarity": 0.9993976354598999,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9cfea37436df323d1d1123d071f91357": {
+    "polarity": 0.9954621195793152,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a0e42081fe7c1e639439b9775580b7a1": {
+    "polarity": 0.999516487121582,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "57692fcda8ce09cd865425b5d8ad0be6": {
+    "polarity": -0.9814586043357849,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "c58b52376d76d22f8ce60aeabef878cf": {
+    "polarity": 0.9955399632453918,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3f83996592d0f40104593a6dcfedcbb5": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "560279b65b6980e35d10202c50da0c28": {
+    "polarity": 0.9989087581634521,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cc338d9af0c78973b682d312ce639c3d": {
+    "polarity": 0.9973388314247131,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4fea9b8df17e862b546601bf4c345b6a": {
+    "polarity": 0.9993934631347656,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5116f0267dc9331678051247f90bfc13": {
+    "polarity": 0.9976848363876343,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "62e323e6f8cf193a35ae735d1e0e23a4": {
+    "polarity": 0.9908267855644226,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "dc54b2336ec47f27fb7d15fcf3d38cff": {
+    "polarity": 0.9941983222961426,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "951ae2a2537a5ba45ee46fe18804a6b9": {
+    "polarity": 0.9526447653770447,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6cd113f54fb4c25cb275da47087b8523": {
+    "polarity": 0.999515175819397,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6cd5f6dcb907f223233cacf844f481b3": {
+    "polarity": 0.9858781099319458,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b96f558c15a75a4a80087bee415a7854": {
+    "polarity": 0.9903560876846313,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ca7da8dbe8d9f080f6eff14959138f17": {
+    "polarity": 0.9963397979736328,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1915f4730c7acce677a5fd8a891756a3": {
+    "polarity": 0.995516836643219,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "391ca77629573352bf2c4697e93ce425": {
+    "polarity": -0.9328635931015015,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "af8ac09e75c452b052f668a4dc54c271": {
+    "polarity": 0.998206615447998,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "54166c95e4a2b54ff42c09927ca44e42": {
+    "polarity": 0.9996542930603027,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5a0898dc573ca05f1a4929ebf971bf3d": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "c881a50c6040ca46e3f4550655c1a296": {
+    "polarity": 0.9986529350280762,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "253173cd51efd7c314135a9f0cfa711a": {
+    "polarity": 0.9989659786224365,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bc4700f11a7c299ea2124a9e01843f85": {
+    "polarity": -0.968458354473114,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "95f2d1d506c6fb35b6d534fd716922b5": {
+    "polarity": 0.9948674440383911,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "51e04a00561b378085c6e3fdbfa0bc62": {
+    "polarity": 0.9983382225036621,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "35bc4cf93b0b5f87acf83cf50454c000": {
+    "polarity": 0.9997773766517639,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c4c7884e0065131674dee5d87a640946": {
+    "polarity": 0.9996641874313354,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2499d1ed95a0e41e0d8cafec87cb2a53": {
+    "polarity": 0.9994469285011292,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d9ec400044ce698078134b6ce3a0858e": {
+    "polarity": 0.9986206293106079,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5b26731606e51e5cedadde73c3cf08ff": {
+    "polarity": 0.9995300769805908,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3acdd0bcf9f05c4afde4bcd2ee298a3a": {
+    "polarity": 0.9908589720726013,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "370ece44a1b1b4c84f2397bf476b6371": {
+    "polarity": 0.9998030066490173,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7535c23489d40c4e373c52343bc1e157": {
+    "polarity": -0.9867472648620605,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "77460d6a86fe0c5eee7da0ef39acbf10": {
+    "polarity": 0.9974531531333923,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e66b080248779c9468445e4e554e3cf3": {
+    "polarity": -0.9890488386154175,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "d6e5742a592f87390c16a58e9e30b925": {
+    "polarity": 0.9990816116333008,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6d412848fb24ec56b29a7b2a418a69db": {
+    "polarity": 0.9986434578895569,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4eaba41a89638913a4ff454d9f40a694": {
+    "polarity": 0.9957672357559204,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ee22888776dff966023078d89518027f": {
+    "polarity": 0.9981839060783386,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d2c08a6a0e490a9283496aa37e1e76e3": {
+    "polarity": 0.9983786344528198,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3e9a0765915cfa597ff045e8c89a9565": {
+    "polarity": -0.9476866722106934,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "2cfbea5d445fef6082c369933436f156": {
+    "polarity": -0.9713959097862244,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "87a988374a7903770df8c1172a5bbb1f": {
+    "polarity": 0.9990273714065552,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b7a6414079768c2b35aab2f431cad37a": {
+    "polarity": 0.9917872548103333,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5ee0e2892fd6c4435e577ea043b5d938": {
+    "polarity": -0.9693818688392639,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "cfa94b86fe3aee10fe8bf11135f0081c": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "02a1fe9d77fc4b0cdfdb3a92d5dc30c4": {
+    "polarity": 0.984330952167511,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "305fd6641a7fce58b79bc0b46b715ab1": {
+    "polarity": 0.9975640773773193,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d929651c1b7c0c715317ca8dfa73f1c0": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "2b2161d7e9a8db3b70df36c5ca87c2b0": {
+    "polarity": 0.9992302656173706,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "73d9d6483bb1e438f44b2e675a4d8698": {
+    "polarity": 0.9986922144889832,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9ba8255b2f9e527f648d1eaa277a3011": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "27fce2b3b749f142197b938bffeaf10c": {
+    "polarity": -0.9994038343429565,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "a9edfbf6aad6e08f0db06a33d680448f": {
+    "polarity": 0.9984598159790039,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "85a815efec08ab18c7b2c1878dd631bb": {
+    "polarity": -0.9790655374526978,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "9ffdb48712d1567583b479c1ff78dcbb": {
+    "polarity": 0.9964474439620972,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8a68c6decfd77c39d8fc19374db83281": {
+    "polarity": 0.9983147382736206,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f88419d05bb99ee11c6888f09c42ef5c": {
+    "polarity": 0.9905293583869934,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "67d9c868b7afef9ed17112f49231f576": {
+    "polarity": -0.9716190099716187,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "59672e63f1391a38b77eb87730bb7a28": {
+    "polarity": 0.9981650710105896,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "08dd780035eb0d9b4edbbd9d2a9f0d75": {
+    "polarity": 0.9337385296821594,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "18cf1ee3e83de68c829c4fd846a4c9c6": {
+    "polarity": 0.9970117807388306,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1323a75c5ea37b89bf1c9d9c3b45129b": {
+    "polarity": 0.9971761703491211,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "69c9b112096ae0bcfde07395249521c8": {
+    "polarity": 0.9969677329063416,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "905bedaff100b9cb5100fd57a5f7237e": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "c2d4f7eb8a292eacda55b4696339f91b": {
+    "polarity": 0.9993439316749573,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fdfff62bdce6a1f564c258132b2e8c8c": {
+    "polarity": 0.9881150722503662,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4660a8109ff3e37e7616395e8177650b": {
+    "polarity": 0.9980714917182922,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "097ca398332c0d432870ffc1eec1ebc1": {
+    "polarity": 0.9971730709075928,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3f59d063e788e802abadc52e521dda8b": {
+    "polarity": 0.9624637365341187,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6257558097b72f736c050e529bef08c6": {
+    "polarity": 0.9992032647132874,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fc356f8f253ca4724cebce759087f47a": {
+    "polarity": 0.999537467956543,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "01881bbad66806e609d10f986db16237": {
+    "polarity": 0.9977333545684814,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7a35a27263cc2b300e665e792321a5a3": {
+    "polarity": 0.9976781010627747,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "44a376fdd4888ed72469cac83d4f657a": {
+    "polarity": -0.9713441729545593,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "d0e85526fa6eb878a865ad5679b6876c": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "27b17fdbb471b3d33e4ef83f982dfa1f": {
+    "polarity": 0.9958123564720154,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "84cde1a53cb613b824278352e7fdf664": {
+    "polarity": 0.9874677658081055,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "84d57907c6cb06712879b0a25ac4e562": {
+    "polarity": 0.9974040389060974,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e1cae753dd8cf5e7844e252069b89ac5": {
+    "polarity": 0.9859220385551453,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "050a31a56aa4cc9c67e088b60c1c31ab": {
+    "polarity": 0.9989842772483826,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "35b22d41ff624d7f900b3861a9de9635": {
+    "polarity": -0.9818806648254395,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "c4c9fa026f1382820a96bf5e65169fa4": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "a7441eaeb4e50c8db4e1d788183993e2": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "8f37b62eea759c67b8af2eb15527b176": {
+    "polarity": -0.9932250380516052,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "0f2b25244f4b9da7e949b847140fa486": {
+    "polarity": 0.9983354210853577,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bbe7cac7bb78b08969090589772b0c30": {
+    "polarity": 0.9995124340057373,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "03881e33bd053aa331afbb4aa9ec9efb": {
+    "polarity": -0.9892102479934692,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "6186caba9e191d5f5638b545b3955f2f": {
+    "polarity": 0.9990257024765015,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "67c3fe852f2cad9d837092ac14ca35be": {
+    "polarity": 0.9941132664680481,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "681c11aef7237173498ee9ab5cbe50b8": {
+    "polarity": -0.9997296929359436,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "51d94c33640904be2f97b723fdf9e1c0": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "4428301f0e52d41ad9d707823fde29c2": {
+    "polarity": 0.9988756775856018,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "65d1994a7eceddd3a7a0e1b0b1818084": {
+    "polarity": 0.9475308656692505,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6c5d046957480b23f72eb2d6d3ad8be6": {
+    "polarity": 0.9977216124534607,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "427d9d50b35697f9521aa8f8710e0695": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "575b414ab2cf8194a346a5a95366129d": {
+    "polarity": 0.9993394017219543,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f19a721a2b40056c7a78f82a99130a5f": {
+    "polarity": 0.9892676472663879,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c60bc68b2cbc26300ade678e24392553": {
+    "polarity": 0.9982202649116516,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "69e63d2f8539017638cbdd2e4e432466": {
+    "polarity": 0.9985916018486023,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0c983c6625fd2aeb9b78161b028bb278": {
+    "polarity": 0.9770504236221313,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "07cd9d407b343043dd580a24b76f300c": {
+    "polarity": 0.9847621917724609,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d4c6355e02503930b83c195c0e2e67ac": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "7806c0648ea7608ce56cd6028a95bd91": {
+    "polarity": 0.9997702240943909,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6b6acd7aba6d43652040fc2c3367ccd7": {
+    "polarity": 0.9992645382881165,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ae04bbada2bed70c812cbbe16133fa31": {
+    "polarity": 0.9958317875862122,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "35c5eaac3f6b12a66796727d5ed25483": {
+    "polarity": 0.9989566802978516,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a4d8603347725a1f15392eb1593d89da": {
+    "polarity": 0.9943161606788635,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4c91134af958fd7567e5cdcc4481d2be": {
+    "polarity": 0.9994353652000427,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "735ee2f68772b24e49a8a992a385b8fa": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "eb30713003d15c37824426cdc56572bc": {
+    "polarity": 0.9951263666152954,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "2bfc11177dda8b7373d763b4c2faec37": {
+    "polarity": 0.9995926022529602,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "57ef3ef1b796bef89a3c897de376e05c": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "0820e50e62e8e561ecd37073300f8c42": {
+    "polarity": 0.9997761845588684,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "70a8c87b37c4e0f3f39e97f629916df9": {
+    "polarity": 0.9997833371162415,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cf957470be8168a2bf74dafef49980b9": {
+    "polarity": 0.9987249970436096,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "110bb2248c41308dd2a536a7635304a3": {
+    "polarity": 0.9997183680534363,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4ab4a1be59ef355d531a97e7ea438db9": {
+    "polarity": 0.9996254444122314,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d7e4e85a266287b54f7e6c34c22b91fe": {
+    "polarity": 0.9913737177848816,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5f73d03ae7e0c2000f3a51f7cca4fd1c": {
+    "polarity": 0.9997209906578064,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d6539c6daf4d64347944e4ab3f1c27a8": {
+    "polarity": 0.992603600025177,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e7c97001042a3121ec0eeeda48d2237d": {
+    "polarity": 0.996505618095398,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0a98ad66120369a9a802685090879e61": {
+    "polarity": 0.9988065958023071,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "11a360b19bcffa41c0e11a48ea0dee5c": {
+    "polarity": 0.9981433153152466,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8f5ade3c1da7b9fc8c499f585c6a1eea": {
+    "polarity": 0.999321460723877,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7033486f87dbbd5f1a650f6977e8b1cb": {
+    "polarity": 0.9992325305938721,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ac975f8f1482f36b5b9bb01c586cef9d": {
+    "polarity": 0.9991732239723206,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "047da833a051b3b8c02cebee37ce40db": {
+    "polarity": 0.999147891998291,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5c40a3b3d5df7b9c0f915e173202afc2": {
+    "polarity": 0.9969005584716797,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "88b6325816214a20383d0a4ec8c85cfe": {
+    "polarity": 0.9997065663337708,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4b425a2fc1556ab2678b23b4699fc92a": {
+    "polarity": -0.9831106662750244,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "fb2a0f8ec7607d4ae164f4c4079dcb90": {
+    "polarity": 0.9190912842750549,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "052f3f807f0cc1b940033906ddb9b1cf": {
+    "polarity": 0.9971588850021362,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "591438c29f0a39f88a8253512a47b3b7": {
+    "polarity": 0.998808741569519,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8ab32acafd17234675862c1b71cc5a9a": {
+    "polarity": 0.9959024786949158,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7dec546fb3532dff8ed167a31fc72f82": {
+    "polarity": 0.9966519474983215,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "228733a014ee2eb8c6c561aaf142d09a": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "44b0221df2168edd4f5514a1194ec113": {
+    "polarity": 0.9952288866043091,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7f8688f564ab3860fff95aeb0364ed57": {
+    "polarity": 0.9988937973976135,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "48ff274bda6b94b6253bfef558200f4e": {
+    "polarity": 0.9975625276565552,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d0142b87cd9f76eb9f91e74e79a153b1": {
+    "polarity": 0.9994311928749084,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "82e344bb4ad356f0b88bce0a3828de53": {
+    "polarity": 0.9781538248062134,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9477cadb9e9791bd5e3102b0f9586377": {
+    "polarity": -0.9931675791740417,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "0a8ad3ca7f9d57409a84e5d8c96921d5": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "b19e1ac279ae0cddb899ad856e9fc574": {
+    "polarity": 0.9992076754570007,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "eeef022071abbad923112ad2b44ebeb0": {
+    "polarity": 0.9964067339897156,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a8ec34ac346d51c8371edc0021e11dad": {
+    "polarity": -0.9819241166114807,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "e4d2e2159bba37a5cc33e5f096fb4b6d": {
+    "polarity": -0.9795504808425903,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "9edf73aeb5a2cc460aa5129c32a36ff2": {
+    "polarity": 0.9994723200798035,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cef3482e03c4fc4083d59b264c1caf2a": {
+    "polarity": -0.9995855689048767,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "effba60d9d914a76d65ada78b8d5dcd2": {
+    "polarity": 0.994702160358429,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3bde0f417cb1123e94309dddf38b27ca": {
+    "polarity": 0.9859670996665955,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "93ffbb282202fc48e7c3a36162ddee6d": {
+    "polarity": 0.9320118427276611,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e37e5015a0d94b9920c57ca2bb088b73": {
+    "polarity": 0.9938973784446716,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f759950d37b180550b23b0bc2c4c1636": {
+    "polarity": 0.991897702217102,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e7b2a702927226984b23752c2d8c18c2": {
+    "polarity": 0.9995112419128418,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6a01b0c82a407fcb17a470ee3718e9c6": {
+    "polarity": 0.9931361675262451,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "00b1735d66c9e67542ca937b0ab02e18": {
+    "polarity": 0.9990058541297913,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c649ddf2f2fcc35d75a2834e174dfa01": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "c0b7fd08c7bd605c3decd209df8826c1": {
+    "polarity": 0.9996623992919922,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "b1d49679b74ad3afda33b4775a83e375": {
+    "polarity": 0.9977808594703674,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "08c690183729b2d71e65b64fc7fb9d55": {
+    "polarity": 0.9813272356987,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "bf998d8f01bc574b62a34c1f6c7ef26e": {
+    "polarity": 0.9978494644165039,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c0c3b482e5f347acaa1f979eff284d39": {
+    "polarity": 0.9966623783111572,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ce5d6d372bec79ed1c44c51aac87803c": {
+    "polarity": 0.9980796575546265,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8fa24d6f8d1c8c58c00732246dcb930d": {
+    "polarity": 0.9982275366783142,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "3d61cd8919935a67dcdea9a0e8a62c87": {
+    "polarity": 0.9990583062171936,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "442e070543e05e38e70fc03c5024f755": {
+    "polarity": 0.992850661277771,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "67c99ab78a1db12964a3037570fd1417": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "d83984a240acc6b896420cac1890650b": {
+    "polarity": 0.9988960027694702,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5f04bd71e7abbb14b188b83c49fc6a08": {
+    "polarity": 0.9980113506317139,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "cddec8be3dbd0ef0821f8ba77022e7a8": {
+    "polarity": 0.999398946762085,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8ebe7a9663069ece5a0f477861416a9e": {
+    "polarity": 0.9831337332725525,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "d4623fb1c6c12329bdec483ab34d176e": {
+    "polarity": 0.9989232420921326,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "40b412222ec65a31d9177a8550ce36ef": {
+    "polarity": 0.9781940579414368,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "456a39bb3f20f974cfb3a0e9c3a9b329": {
+    "polarity": 0.9956921935081482,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "391ca336499240782c4d2b3d4d4be0e4": {
+    "polarity": 0.9809415340423584,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8f530361c441d0f50dc45fbe993f2768": {
+    "polarity": 0.9995226860046387,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e6d16788d6a1abad9d9389f2720977ea": {
+    "polarity": -0.9980738162994385,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "8c4ad3f8dd3ca3880b11278c052292f3": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "e16f8b5d4f60efe84ba3008cf91b99a6": {
+    "polarity": 0.9980362057685852,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5e136f867a82fd2dc73066fc57d330e6": {
+    "polarity": 0.9737254977226257,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "30557845874f8f799515594d7ebe7c99": {
+    "polarity": 0.9984764456748962,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7426d1c5d8a4378f1e39f94b93be212c": {
+    "polarity": 0.9991063475608826,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "96d1496097e190142e788aeb1ced7475": {
+    "polarity": 0.998578667640686,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "84be5618ee4900b4b450c8d81f2a5a9c": {
+    "polarity": 0.9988335967063904,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "54c82b8670e757e7c9325cd167851085": {
+    "polarity": 0.9928627610206604,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1704b24bb84bf841ceee7b31d4039bd8": {
+    "polarity": 0.9885092377662659,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "c8cf632bada74274ec7ddc79f0898b29": {
+    "polarity": -0.9752492308616638,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "0c4ce3c13959a415cc185897944c78cf": {
+    "polarity": 0.9994217157363892,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "ee920491e7a76015260fa00e3677edaa": {
+    "polarity": -0.9905865788459778,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "dd7d96b022807dfbc5c5fed4ee96cc71": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "c5429a915b974905a931518561393584": {
+    "polarity": 0.9963666200637817,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8dcc2f33634b4596811447f14f757365": {
+    "polarity": 0.9948818683624268,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "9e0581dfa6d809e52462825b111eeb64": {
+    "polarity": 0.9990586638450623,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1d1bd35abfb6d71fbbd97ba72ea1e2cc": {
+    "polarity": -0.9700899124145508,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "a90d700ddba2e734d2f590377aa072db": {
+    "polarity": 0.9859532117843628,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "0e9d1230ad025d7729d2e0f29598ecf8": {
+    "polarity": 0.9980977177619934,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "6d57e5153acbf85ce919885ccd35903a": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "3554d1004a2e24b3cd7d7270a78d23a6": {
+    "polarity": 0.998855710029602,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "a5df6b71b3deeaf8d269cbad0304c73f": {
+    "polarity": 0.9887423515319824,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "7c1a9f5983eff7ee6ca9dd54f466df78": {
+    "polarity": 0.9890900254249573,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "84a64dd267f4646e2e6e9ff4d06386a3": {
+    "polarity": -0.944840133190155,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "55fea6b2c900f20ce45af8d7785cc110": {
+    "polarity": 0.9995617270469666,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "30df2f133d5f530f01f880b7c226fc50": {
+    "polarity": 0.9995977282524109,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f622847fc2f3e79ee16b088dd67019c0": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "8a8e517ec953eb8b62d69b69cb518864": {
+    "polarity": 0.99712735414505,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "765260865b44898288cf21118f563f92": {
+    "polarity": 0.9982379674911499,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "4a081df0f587c76bff639d520c21adfa": {
+    "polarity": 0.9981921315193176,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "64a58b994b668781f7ab688c61c22e08": {
+    "polarity": 0.99601149559021,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "95073d873535e9cb4cb314da4b4f8e23": {
+    "polarity": 0.9991718530654907,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "5631144ae78363fe1980bd82aece1673": {
+    "polarity": 0.9203195571899414,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "f2ab04fafc830250eb1ee86da7b54d4c": {
+    "polarity": -0.9955042004585266,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "696ddddd9ba3ceb4ac7048cd071d12d5": {
+    "polarity": 0.9986188411712646,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "1de6b4e406cc4cc873681ad54a48e6bf": {
+    "polarity": 0.9978947043418884,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "91df2b779dfeedee40dff9f02fbf3bb2": {
+    "polarity": 0.955007791519165,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "e55d9c083c9c9f8348ba2e53dc745ff0": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "031d75bc22ac7758ef343cd8b6c0fa97": {
+    "polarity": 0.9980903267860413,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "fa6167bbc72738e1d60ac46153326a43": {
+    "polarity": 0.9977871179580688,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "152b90048666624161093e8f8f321afd": {
+    "polarity": 0.0,
+    "label": "neutral",
+    "subjectivity": 0.5
+  },
+  "9aa9391a22bbc69ebe6d8373f8e56f5b": {
+    "polarity": 0.9964897036552429,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "619bd6f1f9a65fc98666c85f9a1b8e35": {
+    "polarity": 0.9993795156478882,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "8af0e2151e46442c957db8a22c3d506d": {
+    "polarity": -0.9977680444717407,
+    "label": "negative",
+    "subjectivity": 0.5
+  },
+  "d9d3a1cf41a19def415c4cc807f6657c": {
+    "polarity": 0.9812132716178894,
+    "label": "positive",
+    "subjectivity": 0.5
+  },
+  "431a15a7d055b77e9749ccf2e7266da1": {
+    "polarity": 0.9971171617507935,
+    "label": "positive",
+    "subjectivity": 0.5
   }
 }

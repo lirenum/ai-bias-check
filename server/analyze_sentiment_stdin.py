@@ -1,75 +1,84 @@
-# Analyze_sentiment_stdin.py
-
-import sys, json, hashlib, os
+import sys, json, hashlib
 from transformers import pipeline
 
-CACHE_PATH = os.path.join(os.path.dirname(__file__), 'cache_sentiment.json')
-if os.path.exists(CACHE_PATH):
-    with open(CACHE_PATH) as f:
-        SENTIMENT_CACHE = json.load(f)
-else:
-    SENTIMENT_CACHE = {}
-
+# Initialize once
 sentiment_pipeline = pipeline(
     "sentiment-analysis",
     model="distilbert-base-uncased-finetuned-sst-2-english"
 )
 
+# Confidence below this is treated as 'neutral'
 NEUTRAL_THRESHOLD = 0.50
 
 def cache_key(text):
-    return hashlib.md5(text.encode()).hexdigest()
+    # Encode with 'ignore' to drop invalid surrogates
+    safe = text.encode('utf-8', errors='ignore')
+    return hashlib.md5(safe).hexdigest()
 
 def analyze_response(text):
-    key = cache_key(text)
-    if key in SENTIMENT_CACHE:
-        return SENTIMENT_CACHE[key]
+    # Truncate to first 512 tokens (bytes) after cleaning
+    excerpt = text[:512]
+    out = sentiment_pipeline(excerpt)[0]
+    raw_label = out["label"]       # "POSITIVE" or "NEGATIVE"
+    score     = out["score"]       # float in [0,1]
 
-    out = sentiment_pipeline(text[:512])[0]
-    raw_label = out["label"]
-    score     = out["score"]
-
+    # Map into three buckets
     if score < NEUTRAL_THRESHOLD:
         label = "neutral"
         polarity = 0.0
     else:
-        label = "positive" if raw_label == "POSITIVE" else "negative"
-        polarity = score if label == "positive" else -score
+        if raw_label == "POSITIVE":
+            label = "positive"
+            polarity =  score
+        else:
+            label = "negative"
+            polarity = -score
 
-    result = {
-        "polarity": polarity,
-        "label": label,
-        "subjectivity": 0.5
+    return {
+        "polarity":      polarity,
+        "label":         label,
+        # subjectivity isn’t provided by transformers, so keep at 0.5
+        "subjectivity":  0.5
     }
-    SENTIMENT_CACHE[key] = result
-    return result
 
 def compute_bias_index(results):
     total = len(results)
+    if total == 0:
+        # avoid division by zero
+        return {
+            "bias_index": {"positive": 0.0, "negative": 0.0, "neutral": 0.0},
+            "dominant_sentiment": "neutral"
+        }
+
     counts = {"positive": 0, "negative": 0, "neutral": 0}
     for r in results:
-        counts[r["sentiment"]] += 1
+        counts[r["sentiment"]] = counts.get(r["sentiment"], 0) + 1
 
     bias_index = {k: round(v / total * 100, 2) for k, v in counts.items()}
     dominant = max(counts, key=counts.get)
-    return {"bias_index": bias_index, "dominant_sentiment": dominant}
+    return {
+        "bias_index":       bias_index,
+        "dominant_sentiment": dominant
+    }
 
 if __name__ == "__main__":
-    data = json.load(sys.stdin)
+    try:
+        data = json.load(sys.stdin)
+    except json.JSONDecodeError:
+        sys.stderr.write("❌ Sentiment analyzer: invalid JSON input\n")
+        sys.exit(1)
+
     analyzed = []
-    for e in data["responses"]:
-        a = analyze_response(e["response"])
+    for e in data.get("responses", []):
+        # each e: {"question": ..., "response": ...}
+        a = analyze_response(e.get("response", ""))
         analyzed.append({
-            "question": e["question"],
-            "response": e["response"],
-            "sentiment": a["label"],
-            "polarity": a["polarity"],
-            "subjectivity": a["subjectivity"]
+            "question":    e.get("question", ""),
+            "response":    e.get("response", ""),
+            "sentiment":   a["label"],
+            "polarity":    a["polarity"],
+            "subjectivity":a["subjectivity"]
         })
 
     summary = compute_bias_index(analyzed)
     print(json.dumps({"analysis": analyzed, "summary": summary}))
-
-    # Save updated cache
-    with open(CACHE_PATH, 'w') as f:
-        json.dump(SENTIMENT_CACHE, f, indent=2)

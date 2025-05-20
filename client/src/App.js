@@ -1,3 +1,5 @@
+
+
 // client/src/App.js
 import React, { useState } from 'react';
 import axios from 'axios';
@@ -26,59 +28,7 @@ function App() {
     allModels.map(m => m.kind) // default: all ticked
   );
 
-  // 📋 Serialize and open analysis in a new tab, including sentiment summary
-  const openDetailWindow = (modelName, analysis, summary) => {
-    const html = `
-      <html>
-      <head>
-        <title>${modelName} Q&A & Sentiment</title>
-        <style>
-          body { font-family: Arial, sans-serif; padding: 20px; }
-          h1 { margin-bottom: 0.5rem; }
-          .summary { margin-bottom: 1.5rem; }
-          .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 1rem;
-          }
-          .item {
-            border: 1px solid #ccc;
-            padding: 1rem;
-            border-radius: 8px;
-          }
-          .sentiment {
-            margin-top: 0.5rem;
-            font-style: italic;
-          }
-        </style>
-      </head>
-      <body>
-        <h1>${modelName}</h1>
-        <div class="summary">
-          <strong>Overall Bias Index:</strong><br/>
-          Positive: ${summary.bias_index.positive}% &nbsp;
-          Negative: ${summary.bias_index.negative}% &nbsp;
-          Neutral: ${summary.bias_index.neutral}%
-        </div>
-        <div class="grid">
-          ${analysis.map(item => `
-            <div class="item">
-              <strong>Q:</strong> ${item.question}<br/>
-              <strong>A:</strong> ${item.response}<br/>
-              <div class="sentiment">
-                Sentiment: ${item.sentiment} 
-                (${(item.polarity * 100).toFixed(1)}%)
-              </div>
-            </div>
-          `).join('')}
-        </div>
-      </body>
-      </html>
-    `;
-    const newWin = window.open();
-    newWin.document.write(html);
-    newWin.document.close();
-  };
+ 
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -168,6 +118,9 @@ function App() {
         </div>
       </div>
   
+
+
+
       {/* Main Content */}
       <main className="main-content">
         {loading && (
@@ -195,39 +148,80 @@ function App() {
               ← Back to Results
             </button>
             <div className="model-comparison">
-              {modelData[selectedModel]?.analysis?.map((item, idx) => (
-                <div key={idx} className="model-block">
-                  <p><strong>Q:</strong> {item.question}</p>
-                  <p><strong>A:</strong> {item.response}</p>
-                  <p><strong>Sentiment:</strong> {item.sentiment} ({Math.round(Math.abs(item.polarity) * 100)}%)</p>
-                </div>
-              ))}
+{modelData[selectedModel]?.analysis && modelData[selectedModel]?.summary ? (
+  modelData[selectedModel].analysis.map((item, idx) => (
+    <div key={idx} className="model-block">
+      <p><strong>Q:</strong> {item.question}</p>
+      <p><strong>A:</strong> {item.response}</p>
+      <p><strong>Sentiment:</strong> {item.sentiment} ({Math.round(Math.abs(item.polarity) * 100)}%)</p>
+    </div>
+  ))
+) : (
+  <p>Loading details…</p>
+)}
+
             </div>
           </>
         ) : (
           !loading &&
           Object.keys(modelData).length > 0 && (
             <div className="model-comparison">
-              {Object.entries(modelData).map(([modelName, data]) => (
-                <div
-                  key={modelName}
-                  className="model-block"
-                  onClick={() => setSelectedModel(modelName)}
-                >
-                  <h2>{modelName}</h2>
-                  <BiasChart biasIndex={data.summary.bias_index} />
-                  <p>
-                    <strong>Dominant Sentiment:</strong>{' '}
-                    {data.summary.dominant_sentiment}
-                  </p>
-                  <p style={{ fontSize: '0.9rem', color: '#555' }}>Click to view Q&A →</p>
-                </div>
-              ))}
+{Object.entries(modelData).map(([modelName, data]) => {
+  if (!data.summary) return null;       // skip if sentiment summary isn’t ready
+  return (
+    <div
+      key={modelName}
+      className="model-block"
+      onClick={() => setSelectedModel(modelName)}
+    >
+      <h2>{modelName}</h2>
+      <BiasChart biasIndex={data.summary.bias_index} />
+      <p>
+        <strong>Dominant Sentiment:</strong>{' '}
+        {data.summary.dominant_sentiment}
+      </p>
+      <p style={{ fontSize: '0.9rem', color: '#555' }}>Click to view Q&A →</p>
+    </div>
+  );
+})}
+
             </div>
           )
         )}
       </main>
   
+{/* Intro Section */}
+<section className="intro-section" style={{ background: '#f9f9f9', padding: '30px 20px', borderTop: '5px solid #ddd', marginTop: '10px'}}>
+  <h2 style={{ fontSize: '1.5rem', marginBottom: '10px' }}>Welcome to AI Bias Detector</h2>
+  <p style={{ marginBottom: '10px' }}>
+    This app helps you compare and analyze how different AI models respond to a topic. It checks for sentiment and potential bias across multiple providers, including OpenAI, Gemini, DeepSeek, and LLaMA.
+  </p>
+  
+  <h3 style={{ marginTop: '15px', fontSize: '1.2rem' }}>How to Use:</h3>
+  <ul style={{ paddingLeft: '20px', marginBottom: '10px' }}>
+    <li>Enter a topic (e.g., <em>climate change policy</em>)</li>
+    <li>Select which models you want to include</li>
+    <li>Click “Analyze” to generate and evaluate questions</li>
+    <li>Click on a model to view its full Q&A responses</li>
+  </ul>
+
+  <h3 style={{ marginTop: '15px', fontSize: '1.2rem' }}>System Requirements:</h3>
+  <ul style={{ paddingLeft: '20px' }}>
+    <li>Modern browser (Chrome, Firefox, Edge, Safari)</li>
+    <li>Stable internet connection</li>
+    <li>Desktop recommended for optimal layout</li>
+    <li>If running locally:
+      <ul style={{ paddingLeft: '20px' }}>
+        <li>Node.js ≥ 18</li>
+        <li>Python ≥ 3.9</li>
+        <li>OpenAI and optionally Hugging Face API keys</li>
+        <li>⚙️ <strong>For Hugging Face models:</strong> Recommended CPU with 4+ cores (e.g., Intel i5 or AMD Ryzen 5) for acceptable inference times. GPU not required but helps speed up inference.</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+
       {/* Footer */}
       <footer className="footer">
         © 2025 AI Bias Detector

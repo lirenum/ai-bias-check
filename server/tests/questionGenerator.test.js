@@ -1,5 +1,5 @@
 const nock = require('nock');
-const { generateQuestions } = require('../questionGenerator');
+const generateQuestions = require('../questionGenerator');
 
 describe('generateQuestions', () => {
   const topic = 'cats';
